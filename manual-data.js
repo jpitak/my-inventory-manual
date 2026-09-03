@@ -14,7 +14,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "ภาพรวมระบบ Overview & Infrastructure ภาพรวมระบบ My Inventory PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_001.png",
+    "image": "screen_006.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -124,7 +124,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_006.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 1,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ ภาพรวมระบบ My Inventory จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s1-2",
@@ -141,7 +148,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "ภาพรวมระบบ Overview & Infrastructure Hardware & Software PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_002.png",
+    "image": "screen_007.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -251,7 +258,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_007.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 2,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Hardware & Software จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s1-3",
@@ -378,7 +392,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_003.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 3,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Infrastructure จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s1-4",
@@ -395,7 +416,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "ภาพรวมระบบ Overview & Infrastructure PC vs PDA PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_004.png",
+    "image": "screen_009.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -505,7 +526,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_009.png"
+    ],
+    "platform": "PDA",
+    "screenNo": 4,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ PC vs PDA จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s1-5",
@@ -522,7 +550,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "ภาพรวมระบบ Overview & Infrastructure Function Matrix PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_005.png",
+    "image": "screen_010.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -632,7 +660,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_010.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 5,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Function Matrix จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s2-1",
@@ -648,7 +683,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "เข้าสู่หน้าหลักและแสดงเมนูที่ได้รับอนุญาต",
     "keywords": "การเข้าสู่ระบบ Login Login PC PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_006.png",
+    "image": "screen_011.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -758,7 +793,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_011.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 6,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Login PC จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s2-2",
@@ -774,7 +816,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "เข้าสู่หน้าหลักและแสดงเมนูที่ได้รับอนุญาต",
     "keywords": "การเข้าสู่ระบบ Login Login PDA PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_007.png",
+    "image": "screen_012.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -884,7 +926,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_012.png"
+    ],
+    "platform": "PDA",
+    "screenNo": 7,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Login PDA จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s3-1",
@@ -901,7 +950,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "หน้าหลัก Dashboard Dashboard AI Dashboard Command Center PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_008.png",
+    "image": "screen_001.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1011,7 +1060,17 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_001.png",
+      "screen_002.png",
+      "screen_006.png",
+      "screen_007.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 8,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ AI Dashboard Command Center จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s3-2",
@@ -1028,7 +1087,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "หน้าหลัก Dashboard Dashboard Main Menu PDA PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_009.png",
+    "image": "screen_014.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1138,7 +1197,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_014.png"
+    ],
+    "platform": "PDA",
+    "screenNo": 9,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Main Menu PDA จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-1",
@@ -1155,7 +1221,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
     "keywords": "การจัดการ Master Data Master Data Column Mapping PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_010.png",
+    "image": "screen_008.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1274,7 +1340,21 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_008.png",
+      "screen_009.png",
+      "screen_010.png",
+      "screen_011.png",
+      "screen_027.png",
+      "screen_028.png",
+      "screen_029.png",
+      "screen_030.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 10,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Column Mapping จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-2",
@@ -1291,7 +1371,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
     "keywords": "การจัดการ Master Data Master Data Import Business Partner PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_011.png",
+    "image": "screen_012.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1410,7 +1490,16 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_012.png",
+      "screen_013.png",
+      "screen_014.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 11,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Import Business Partner จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-3",
@@ -1427,7 +1516,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
     "keywords": "การจัดการ Master Data Master Data Import Item PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_012.png",
+    "image": "screen_021.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1546,7 +1635,16 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_021.png",
+      "screen_022.png",
+      "screen_023.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 12,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Import Item จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-4",
@@ -1563,7 +1661,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
     "keywords": "การจัดการ Master Data Master Data Import Inventory PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_013.png",
+    "image": "screen_018.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1682,7 +1780,16 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_018.png",
+      "screen_019.png",
+      "screen_020.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 13,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Import Inventory จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-5",
@@ -1699,7 +1806,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
     "keywords": "การจัดการ Master Data Master Data Import Location PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_014.png",
+    "image": "screen_024.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1818,7 +1925,16 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_024.png",
+      "screen_025.png",
+      "screen_026.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 14,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Import Location จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-6",
@@ -1954,7 +2070,16 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_015.png",
+      "screen_016.png",
+      "screen_017.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 15,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Import Inbound จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-7",
@@ -1971,7 +2096,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
     "keywords": "การจัดการ Master Data Master Data Import Outbound PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_016.png",
+    "image": "screen_031.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2090,7 +2215,16 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_031.png",
+      "screen_032.png",
+      "screen_033.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 16,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Import Outbound จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-8",
@@ -2107,7 +2241,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Business Partner PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_017.png",
+    "image": "screen_041.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2217,7 +2351,17 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_041.png",
+      "screen_042.png",
+      "screen_043.png",
+      "screen_044.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 17,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Business Partner จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-9",
@@ -2234,7 +2378,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Item Category PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_018.png",
+    "image": "screen_045.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2344,7 +2488,17 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_045.png",
+      "screen_046.png",
+      "screen_047.png",
+      "screen_048.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 18,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Item Category จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-10",
@@ -2361,7 +2515,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Item PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_019.png",
+    "image": "screen_035.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2471,7 +2625,23 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_035.png",
+      "screen_036.png",
+      "screen_037.png",
+      "screen_038.png",
+      "screen_039.png",
+      "screen_049.png",
+      "screen_050.png",
+      "screen_051.png",
+      "screen_052.png",
+      "screen_053.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 19,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Item จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-11",
@@ -2488,7 +2658,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Location PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_020.png",
+    "image": "screen_055.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2598,7 +2768,18 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_055.png",
+      "screen_056.png",
+      "screen_057.png",
+      "screen_058.png",
+      "screen_059.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 20,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Location จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-12",
@@ -2615,7 +2796,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Warehouse PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_021.png",
+    "image": "screen_062.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2725,7 +2906,15 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_062.png",
+      "screen_063.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 21,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Warehouse จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-13",
@@ -2742,7 +2931,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Owner PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_022.png",
+    "image": "screen_060.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2852,7 +3041,15 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_060.png",
+      "screen_061.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 22,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Owner จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-14",
@@ -2869,7 +3066,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Zone PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_023.png",
+    "image": "screen_064.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2979,7 +3176,18 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_064.png",
+      "screen_071.png",
+      "screen_072.png",
+      "screen_073.png",
+      "screen_074.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 23,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Zone จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-15",
@@ -2996,7 +3204,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Zone Category PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_024.png",
+    "image": "screen_065.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -3106,7 +3314,16 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_065.png",
+      "screen_066.png",
+      "screen_067.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 24,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Zone Category จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s4-16",
@@ -3123,7 +3340,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Zone Location PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_025.png",
+    "image": "screen_068.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -3233,7 +3450,16 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_068.png",
+      "screen_069.png",
+      "screen_070.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 25,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Zone Location จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s5-1",
@@ -3250,7 +3476,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สต็อกรับเข้าถูกบันทึกและพร้อมเข้าสู่ขั้นตอนจัดเก็บ",
     "keywords": "การรับสินค้า Receiving Blind Receipt PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_026.png",
+    "image": "screen_031.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -3393,7 +3619,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_031.png"
+    ],
+    "platform": "PDA",
+    "screenNo": 26,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Blind Receipt จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s5-2",
@@ -3410,7 +3643,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สต็อกรับเข้าถูกบันทึกและพร้อมเข้าสู่ขั้นตอนจัดเก็บ",
     "keywords": "การรับสินค้า Receiving Inbound Order PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_027.png",
+    "image": "screen_075.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -3553,7 +3786,23 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_075.png",
+      "screen_076.png",
+      "screen_077.png",
+      "screen_080.png",
+      "screen_081.png",
+      "screen_082.png",
+      "screen_083.png",
+      "screen_084.png",
+      "screen_085.png",
+      "screen_086.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 27,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Inbound Order จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s5-3",
@@ -3570,7 +3819,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สต็อกรับเข้าถูกบันทึกและพร้อมเข้าสู่ขั้นตอนจัดเก็บ",
     "keywords": "การรับสินค้า Receiving Inbound Receipt PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_028.png",
+    "image": "screen_078.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -3713,7 +3962,17 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_078.png",
+      "screen_079.png",
+      "screen_089.png",
+      "screen_153.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 28,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Inbound Receipt จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s5-4",
@@ -3730,7 +3989,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สต็อกรับเข้าถูกบันทึกและพร้อมเข้าสู่ขั้นตอนจัดเก็บ",
     "keywords": "การรับสินค้า Receiving Receipt Item PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_029.png",
+    "image": "screen_034.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -3873,7 +4132,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_034.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 29,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Receipt Item จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s6-1",
@@ -3890,7 +4156,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สินค้าถูกย้ายจากพื้นที่รับเข้าไปยังตำแหน่งจัดเก็บ",
     "keywords": "การจัดเก็บสินค้า Put Away Put Away PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_030.png",
+    "image": "screen_035.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4008,7 +4274,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_035.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 30,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Put Away จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s6-2",
@@ -4025,7 +4298,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สินค้าถูกย้ายจากพื้นที่รับเข้าไปยังตำแหน่งจัดเก็บ",
     "keywords": "การจัดเก็บสินค้า Put Away Putaway Strategy PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_031.png",
+    "image": "screen_090.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4143,7 +4416,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_090.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 31,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Putaway Strategy จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s7-1",
@@ -4160,7 +4440,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
     "keywords": "การเบิกสินค้า Picking Blind Pick PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_032.png",
+    "image": "screen_037.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4296,7 +4576,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_037.png"
+    ],
+    "platform": "PDA",
+    "screenNo": 32,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Blind Pick จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s7-2",
@@ -4313,7 +4600,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
     "keywords": "การเบิกสินค้า Picking Picking PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_033.png",
+    "image": "screen_038.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4449,7 +4736,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_038.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 33,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Picking จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s7-3",
@@ -4466,7 +4760,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
     "keywords": "การเบิกสินค้า Picking Qty Pick PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_034.png",
+    "image": "screen_039.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4602,7 +4896,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_039.png"
+    ],
+    "platform": "PDA",
+    "screenNo": 34,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Qty Pick จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s8-1",
@@ -4619,7 +4920,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
     "keywords": "การแพ็คและจัดส่งสินค้า Packing & Shipping Outbound Order PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_035.png",
+    "image": "screen_091.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4750,7 +5051,23 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_091.png",
+      "screen_092.png",
+      "screen_093.png",
+      "screen_094.png",
+      "screen_095.png",
+      "screen_096.png",
+      "screen_097.png",
+      "screen_098.png",
+      "screen_099.png",
+      "screen_100.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 35,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Outbound Order จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s8-2",
@@ -4767,7 +5084,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "เอกสารถูกปิดและสต็อกถูกตัดตามเงื่อนไขระบบ",
     "keywords": "การแพ็คและจัดส่งสินค้า Packing & Shipping Delivery Note PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_036.png",
+    "image": "screen_041.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4898,7 +5215,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_041.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 36,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Delivery Note จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s8-3",
@@ -4915,7 +5239,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
     "keywords": "การแพ็คและจัดส่งสินค้า Packing & Shipping Picking Slip PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_037.png",
+    "image": "screen_042.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5051,7 +5375,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_042.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 37,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Picking Slip จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s8-4",
@@ -5068,7 +5399,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "เอกสารถูกปิดและสต็อกถูกตัดตามเงื่อนไขระบบ",
     "keywords": "การแพ็คและจัดส่งสินค้า Packing & Shipping Confirm Ship PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_038.png",
+    "image": "screen_043.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5199,7 +5530,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_043.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 38,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Confirm Ship จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s9-1",
@@ -5216,7 +5554,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ได้ผลการนับและรายการผลต่างสำหรับอนุมัติปรับยอด",
     "keywords": "การตรวจนับสินค้า Stock Count Inventory Counting PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_039.png",
+    "image": "screen_112.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5347,7 +5685,17 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_112.png",
+      "screen_113.png",
+      "screen_114.png",
+      "screen_115.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 39,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Inventory Counting จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s9-2",
@@ -5364,7 +5712,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ได้ผลการนับและรายการผลต่างสำหรับอนุมัติปรับยอด",
     "keywords": "การตรวจนับสินค้า Stock Count Count Reconciliation PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_040.png",
+    "image": "screen_108.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5495,7 +5843,17 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_108.png",
+      "screen_109.png",
+      "screen_110.png",
+      "screen_111.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 40,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Count Reconciliation จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s9-3",
@@ -5512,7 +5870,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ได้ผลการนับและรายการผลต่างสำหรับอนุมัติปรับยอด",
     "keywords": "การตรวจนับสินค้า Stock Count Count Detail PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_041.png",
+    "image": "screen_046.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5643,7 +6001,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_046.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 41,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Count Detail จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s9-4",
@@ -5660,7 +6025,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ได้ผลการนับและรายการผลต่างสำหรับอนุมัติปรับยอด",
     "keywords": "การตรวจนับสินค้า Stock Count Stock Count PDA PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_042.png",
+    "image": "screen_047.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5791,7 +6156,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_047.png"
+    ],
+    "platform": "PDA",
+    "screenNo": 42,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Stock Count PDA จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s10-1",
@@ -5808,7 +6180,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ยอดคงเหลือ ตำแหน่ง หรือสถานะถูกปรับพร้อมร่องรอยตรวจสอบ",
     "keywords": "การโอนย้ายและปรับสมดุลสินค้า Inventory Movement Inventory Move PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_043.png",
+    "image": "screen_116.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5938,7 +6310,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_116.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 43,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Inventory Move จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s10-2",
@@ -5955,7 +6334,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ยอดคงเหลือ ตำแหน่ง หรือสถานะถูกปรับพร้อมร่องรอยตรวจสอบ",
     "keywords": "การโอนย้ายและปรับสมดุลสินค้า Inventory Movement Adjustment PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_044.png",
+    "image": "screen_034.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6085,7 +6464,17 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_034.png",
+      "screen_117.png",
+      "screen_118.png",
+      "screen_119.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 44,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Adjustment จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s10-3",
@@ -6102,7 +6491,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ยอดคงเหลือ ตำแหน่ง หรือสถานะถูกปรับพร้อมร่องรอยตรวจสอบ",
     "keywords": "การโอนย้ายและปรับสมดุลสินค้า Inventory Movement Change Location PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_045.png",
+    "image": "screen_120.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6232,7 +6621,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_120.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 45,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Change Location จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s10-4",
@@ -6249,7 +6645,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ยอดคงเหลือ ตำแหน่ง หรือสถานะถูกปรับพร้อมร่องรอยตรวจสอบ",
     "keywords": "การโอนย้ายและปรับสมดุลสินค้า Inventory Movement Status Change PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_046.png",
+    "image": "screen_040.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6379,7 +6775,16 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_040.png",
+      "screen_126.png",
+      "screen_127.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 46,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Status Change จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s10-5",
@@ -6396,7 +6801,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ยอดคงเหลือ ตำแหน่ง หรือสถานะถูกปรับพร้อมร่องรอยตรวจสอบ",
     "keywords": "การโอนย้ายและปรับสมดุลสินค้า Inventory Movement Inventory Viewer PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_047.png",
+    "image": "screen_121.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6526,7 +6931,18 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_121.png",
+      "screen_122.png",
+      "screen_123.png",
+      "screen_124.png",
+      "screen_125.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 47,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Inventory Viewer จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s11-1",
@@ -6543,7 +6959,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สต็อกรับเข้าถูกบันทึกและพร้อมเข้าสู่ขั้นตอนจัดเก็บ",
     "keywords": "รายงานระบบ Reports Inbound Summary PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_048.png",
+    "image": "screen_053.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6686,7 +7102,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_053.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 48,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Inbound Summary จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s11-2",
@@ -6703,7 +7126,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายงานแสดงข้อมูลตามเงื่อนไขและพร้อมนำไปใช้งาน",
     "keywords": "รายงานระบบ Reports Inventory Summary PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_049.png",
+    "image": "screen_129.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6826,7 +7249,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_129.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 49,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Inventory Summary จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s11-3",
@@ -6843,7 +7273,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
     "keywords": "รายงานระบบ Reports Outbound Picking Slip PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_050.png",
+    "image": "screen_130.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6979,7 +7409,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_130.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 50,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Outbound Picking Slip จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s11-4",
@@ -6996,7 +7433,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สต็อกรับเข้าถูกบันทึกและพร้อมเข้าสู่ขั้นตอนจัดเก็บ",
     "keywords": "รายงานระบบ Reports Inbound Receipt Report PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_051.png",
+    "image": "screen_056.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7139,7 +7576,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_056.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 51,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Inbound Receipt Report จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s12-1",
@@ -7156,7 +7600,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ค่าระบบถูกบันทึกและสิทธิ์ทำงานตามที่กำหนด",
     "keywords": "การตั้งค่าระบบ System Settings Assign Menu PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_052.png",
+    "image": "screen_131.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7274,7 +7718,23 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_131.png",
+      "screen_132.png",
+      "screen_133.png",
+      "screen_134.png",
+      "screen_135.png",
+      "screen_136.png",
+      "screen_137.png",
+      "screen_138.png",
+      "screen_139.png",
+      "screen_140.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 52,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Assign Menu จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s12-2",
@@ -7291,7 +7751,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ค่าระบบถูกบันทึกและสิทธิ์ทำงานตามที่กำหนด",
     "keywords": "การตั้งค่าระบบ System Settings User Group PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_053.png",
+    "image": "screen_149.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7409,7 +7869,19 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_149.png",
+      "screen_150.png",
+      "screen_151.png",
+      "screen_152.png",
+      "screen_166.png",
+      "screen_154.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 53,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ User Group จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s12-3",
@@ -7426,7 +7898,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ค่าระบบถูกบันทึกและสิทธิ์ทำงานตามที่กำหนด",
     "keywords": "การตั้งค่าระบบ System Settings User PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_054.png",
+    "image": "screen_164.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7544,7 +8016,19 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_164.png",
+      "screen_165.png",
+      "screen_157.png",
+      "screen_158.png",
+      "screen_159.png",
+      "screen_160.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 54,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ User จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s12-4",
@@ -7561,7 +8045,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ค่าระบบถูกบันทึกและสิทธิ์ทำงานตามที่กำหนด",
     "keywords": "การตั้งค่าระบบ System Settings User Logon PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_055.png",
+    "image": "screen_155.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7679,7 +8163,15 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_155.png",
+      "screen_156.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 55,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ User Logon จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s12-5",
@@ -7696,7 +8188,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ค่าระบบถูกบันทึกและสิทธิ์ทำงานตามที่กำหนด",
     "keywords": "การตั้งค่าระบบ System Settings Mobile Settings PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_056.png",
+    "image": "screen_161.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7814,7 +8306,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_161.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 56,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Mobile Settings จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s12-6",
@@ -7831,7 +8330,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ค่าระบบถูกบันทึกและสิทธิ์ทำงานตามที่กำหนด",
     "keywords": "การตั้งค่าระบบ System Settings Transaction Log PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_057.png",
+    "image": "screen_144.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7949,7 +8448,19 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_144.png",
+      "screen_145.png",
+      "screen_146.png",
+      "screen_147.png",
+      "screen_148.png",
+      "screen_162.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 57,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Transaction Log จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s13-1",
@@ -7966,7 +8477,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "FAQ & Troubleshooting Help Center FAQ PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_058.png",
+    "image": "screen_063.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -8076,7 +8587,14 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_063.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 58,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ FAQ จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s13-2",
@@ -8093,7 +8611,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "FAQ & Troubleshooting Help Center Troubleshooting PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_059.png",
+    "image": "screen_004.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -8203,7 +8721,15 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_004.png",
+      "screen_005.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 59,
+    "imageStatus": "MATCHED_FROM_SOURCE_DOCUMENT",
+    "imageCaption": "ภาพหน้าจอ Troubleshooting จากเอกสารคู่มือ My Inventory ต้นฉบับ"
   },
   {
     "id": "s13-3",
@@ -8220,7 +8746,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "FAQ & Troubleshooting Help Center Glossary PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "screen_060.png",
+    "image": "screen_065.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -8330,6 +8856,1190 @@ window.MANUAL_DATA = [
       "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
       "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
       "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
-    ]
+    ],
+    "images": [
+      "screen_065.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 60,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพหน้าจอ Glossary จากเอกสารคู่มือ My Inventory ต้นฉบับ"
+  },
+  {
+    "id": "x61",
+    "section": "การจัดการ Master Data",
+    "sectionEn": "Master Data",
+    "title": "Import Master",
+    "objective": "ใช้งานหน้าจอ Import Master ได้ครบตามขั้นตอน พร้อมตรวจสอบความถูกต้องและผลลัพธ์",
+    "steps": [
+      "ดาวน์โหลดหรือเตรียมไฟล์ตาม Template",
+      "ตรวจสอบชื่อคอลัมน์และรูปแบบข้อมูล",
+      "ตั้งค่า Mapping ให้ตรงกับข้อมูลต้นทาง",
+      "กด Validate และแก้ไขรายการผิดพลาด",
+      "กด Import และตรวจสอบสรุปผล"
+    ],
+    "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
+    "keywords": "การจัดการ Master Data Master Data Column Mapping PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory Import Master",
+    "image": "screen_066.png",
+    "preconditions": [
+      "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
+      "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
+      "Master Data ที่เกี่ยวข้องต้องอยู่ในสถานะ Active",
+      "อุปกรณ์ PC/PDA และเครือข่ายพร้อมใช้งาน"
+    ],
+    "controls": [
+      "New / Add: เริ่มสร้างรายการใหม่",
+      "Search: ค้นหาตามเงื่อนไขที่ระบุ",
+      "Save: บันทึกข้อมูลฉบับร่าง",
+      "Confirm / Release: ยืนยันรายการเข้าสู่กระบวนการ",
+      "Cancel / Clear: ยกเลิกหรือคืนค่าช่องค้นหา",
+      "Export / Print: ส่งออกหรือพิมพ์เอกสารตามสิทธิ์"
+    ],
+    "validation": [
+      "ช่องที่มีเครื่องหมายบังคับต้องมีข้อมูลครบ",
+      "รหัสอ้างอิงต้องมีอยู่และอยู่ในสถานะใช้งาน",
+      "จำนวนต้องเป็นตัวเลขและไม่ต่ำกว่าศูนย์",
+      "วันที่เอกสารต้องอยู่ในรูปแบบที่ระบบรองรับ",
+      "รายการซ้ำต้องได้รับการแจ้งเตือนก่อนบันทึก"
+    ],
+    "errors": [
+      "ไม่พบข้อมูล: ตรวจสอบรหัส คำค้น และตัวกรอง",
+      "ไม่มีสิทธิ์: ติดต่อผู้ดูแล User Group / Assign Menu",
+      "ข้อมูลไม่ครบ: ตรวจสอบช่องบังคับและรายการในตาราง",
+      "บันทึกไม่สำเร็จ: ตรวจสอบเครือข่ายและข้อความจากระบบ",
+      "รายการถูกใช้งานแล้ว: Refresh แล้วตรวจสอบสถานะล่าสุด"
+    ],
+    "audit": [
+      "บันทึกผู้สร้างและวันเวลาสร้าง",
+      "บันทึกผู้แก้ไขและวันเวลาแก้ไขล่าสุด",
+      "บันทึกการเปลี่ยนสถานะและเลขที่เอกสารอ้างอิง",
+      "ตรวจสอบย้อนหลังผ่าน Transaction Log ตามสิทธิ์"
+    ],
+    "roles": [
+      {
+        "role": "Administrator",
+        "access": "ตั้งค่า ดู เพิ่ม แก้ไข ยกเลิก และตรวจสอบ Log"
+      },
+      {
+        "role": "Supervisor",
+        "access": "สร้าง ตรวจสอบ อนุมัติ/ยืนยัน และติดตามสถานะ"
+      },
+      {
+        "role": "Operator",
+        "access": "ค้นหา สแกน บันทึกงาน และยืนยันตามสิทธิ์ที่ได้รับ"
+      },
+      {
+        "role": "Viewer / Auditor",
+        "access": "ดู ค้นหา Export และตรวจสอบย้อนหลัง โดยไม่แก้ไขข้อมูล"
+      }
+    ],
+    "fields": [
+      [
+        "Template / Import Type",
+        "Select",
+        "Yes",
+        "ประเภทข้อมูลที่ต้องการนำเข้า"
+      ],
+      [
+        "File",
+        "File",
+        "Yes",
+        "ไฟล์ข้อมูลตามรูปแบบที่กำหนด"
+      ],
+      [
+        "Sheet",
+        "Select",
+        "ตามไฟล์",
+        "Worksheet ที่ต้องอ่าน"
+      ],
+      [
+        "Mapping",
+        "Grid",
+        "Yes",
+        "จับคู่คอลัมน์ต้นทางกับฟิลด์ระบบ"
+      ],
+      [
+        "Validate",
+        "Button",
+        "Yes",
+        "ตรวจสอบข้อมูลก่อน Import"
+      ]
+    ],
+    "flow": [
+      "เลือกประเภท Import",
+      "ดาวน์โหลดหรืออ้างอิง Template",
+      "เลือกไฟล์และ Worksheet",
+      "กำหนด Column Mapping",
+      "กด Validate",
+      "แก้ไข Error/Warning",
+      "กด Import",
+      "ตรวจสอบจำนวน Success/Failed และ Export Error"
+    ],
+    "business": [
+      "ห้ามเปลี่ยนชนิดข้อมูลคอลัมน์ที่กำหนด",
+      "รหัส Master ที่อ้างอิงต้องมีอยู่ก่อน",
+      "รายการผิดพลาดต้องไม่ถูกนำเข้าเงียบ ๆ",
+      "ควรเก็บไฟล์ต้นทางและผล Import เพื่อ Audit"
+    ],
+    "scenarios": [
+      "Import ผ่านครบทุกแถว",
+      "บางแถวไม่ผ่านและดาวน์โหลด Error List",
+      "ไฟล์ผิด Template ระบบหยุดก่อนบันทึก"
+    ],
+    "sourceExcerpt": "ใช้สำหรับนำเข้าข้อมูลจากไฟล์ต้นแบบ เข้าสู่เมนูที่เกี่ยวข้องจากโครงสร้างเมนูหลักของระบบ ตรวจสอบข้อมูลอ้างอิง เช่น รหัสเอกสาร ผู้เกี่ยวข้อง วันที่ หรือสถานะที่ปรากฏบนหน้าจอ กรอกข้อมูลในฟิลด์ที่จำเป็น หรือเลือกคำสั่งจากปุ่ม/แถบเครื่องมือให้ครบถ้วน ทบทวนรายการในตารางหรือค่าที่ผู้ใช้สแกน/ป้อนก่อนบันทึก ยืนยัน หรือพิมพ์เอกสาร ผู้ปฏิบัติงานเปิดเมนู Import Manager เพื่อใช้งานหน้าจอ Column Mapping โดยใช้ข้อมูลจากเอกสารอ้างอิงหรือการสแกนบาร์โค้ด จากนั้นตรวจสอบผลลัพธ์ว่ารายการได้รับการบันทึกและเปลี่ยนสถานะถูกต้อง ควรดาวน์โหลด Template ล่าสุดก่อนกรอกข้อมูล ตรวจสอบ Column Mapping ให้ตรงกับรูปแบบข้อมูล ข้อมูลถูกนำเข้าสู่ระบบตามรูปแบบที่กำหนด หมายเหตุ: คำอธิบายหน้าจอนี้ยึดตามภาพที่มองเห็นได้และชื่อไฟล์อ้างอิงเป็นหลัก หากบางฟิลด์หรือสิทธิ์ไม่ปรากฏในระบบจริง ให้ยึดตามการตั้งค่าหน่วยงานและบทบาทผู้ใช้ ผู้ปฏิบัติงานเปิดเมนู Import Manager เพื่อใช้งานหน้าจอ Column Mapping / Add โดยใช้ข้อมูลจากเอกสารอ้างอิงหรือการสแกนบาร์โค้ด จากนั้นตรวจสอบผลลัพธ์ว่ารายการได้รับการบันทึกและเปลี่ยนสถานะถูกต้อง 46. Column Mapping / Delete",
+    "screenDescription": "หน้าจอ Import Master ในหมวด การจัดการ Master Data แสดงส่วนค้นหา ข้อมูลหลัก ตารางรายละเอียด ปุ่มดำเนินการ สถานะ และข้อความแจ้งเตือนตามสิทธิ์ผู้ใช้",
+    "kpi": [
+      "ข้อมูลบังคับครบถ้วนก่อนบันทึก",
+      "ไม่มีรายการซ้ำหรือยอดติดลบ",
+      "สถานะเอกสารเปลี่ยนตามลำดับที่กำหนด",
+      "ค้นหาหลักฐานย้อนหลังจากเลขที่เอกสารได้"
+    ],
+    "tips": [
+      "ใช้ Search และตัวกรองเพื่อลดรายการบนหน้าจอ",
+      "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
+      "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
+      "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
+    ],
+    "images": [
+      "screen_066.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 61,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพประกอบ Import Master"
+  },
+  {
+    "id": "x62",
+    "section": "การรับสินค้า",
+    "sectionEn": "Receiving",
+    "title": "Print Sticker / Label",
+    "objective": "ใช้งานหน้าจอ Print Sticker / Label ได้ครบตามขั้นตอน พร้อมตรวจสอบความถูกต้องและผลลัพธ์",
+    "steps": [
+      "ค้นหาหรือสร้างเอกสารขาเข้า",
+      "ตรวจสอบ Supplier, Owner และรายการสินค้า",
+      "สแกน/ระบุ Item, Lot, Serial และจำนวน",
+      "ตรวจสอบตำแหน่งพักรับสินค้า",
+      "กด Confirm Receipt และพิมพ์เอกสาร/ป้ายตามสิทธิ์"
+    ],
+    "expected": "สต็อกรับเข้าถูกบันทึกและพร้อมเข้าสู่ขั้นตอนจัดเก็บ",
+    "keywords": "การรับสินค้า Receiving Blind Receipt PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory Print Sticker / Label",
+    "image": "screen_067.png",
+    "preconditions": [
+      "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
+      "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
+      "Master Data ที่เกี่ยวข้องต้องอยู่ในสถานะ Active",
+      "อุปกรณ์ PC/PDA และเครือข่ายพร้อมใช้งาน"
+    ],
+    "controls": [
+      "New / Add: เริ่มสร้างรายการใหม่",
+      "Search: ค้นหาตามเงื่อนไขที่ระบุ",
+      "Save: บันทึกข้อมูลฉบับร่าง",
+      "Confirm / Release: ยืนยันรายการเข้าสู่กระบวนการ",
+      "Cancel / Clear: ยกเลิกหรือคืนค่าช่องค้นหา",
+      "Export / Print: ส่งออกหรือพิมพ์เอกสารตามสิทธิ์"
+    ],
+    "validation": [
+      "ช่องที่มีเครื่องหมายบังคับต้องมีข้อมูลครบ",
+      "รหัสอ้างอิงต้องมีอยู่และอยู่ในสถานะใช้งาน",
+      "จำนวนต้องเป็นตัวเลขและไม่ต่ำกว่าศูนย์",
+      "วันที่เอกสารต้องอยู่ในรูปแบบที่ระบบรองรับ",
+      "รายการซ้ำต้องได้รับการแจ้งเตือนก่อนบันทึก"
+    ],
+    "errors": [
+      "ไม่พบข้อมูล: ตรวจสอบรหัส คำค้น และตัวกรอง",
+      "ไม่มีสิทธิ์: ติดต่อผู้ดูแล User Group / Assign Menu",
+      "ข้อมูลไม่ครบ: ตรวจสอบช่องบังคับและรายการในตาราง",
+      "บันทึกไม่สำเร็จ: ตรวจสอบเครือข่ายและข้อความจากระบบ",
+      "รายการถูกใช้งานแล้ว: Refresh แล้วตรวจสอบสถานะล่าสุด"
+    ],
+    "audit": [
+      "บันทึกผู้สร้างและวันเวลาสร้าง",
+      "บันทึกผู้แก้ไขและวันเวลาแก้ไขล่าสุด",
+      "บันทึกการเปลี่ยนสถานะและเลขที่เอกสารอ้างอิง",
+      "ตรวจสอบย้อนหลังผ่าน Transaction Log ตามสิทธิ์"
+    ],
+    "roles": [
+      {
+        "role": "Administrator",
+        "access": "ตั้งค่า ดู เพิ่ม แก้ไข ยกเลิก และตรวจสอบ Log"
+      },
+      {
+        "role": "Supervisor",
+        "access": "สร้าง ตรวจสอบ อนุมัติ/ยืนยัน และติดตามสถานะ"
+      },
+      {
+        "role": "Operator",
+        "access": "ค้นหา สแกน บันทึกงาน และยืนยันตามสิทธิ์ที่ได้รับ"
+      },
+      {
+        "role": "Viewer / Auditor",
+        "access": "ดู ค้นหา Export และตรวจสอบย้อนหลัง โดยไม่แก้ไขข้อมูล"
+      }
+    ],
+    "fields": [
+      [
+        "Inbound No.",
+        "Text/Auto",
+        "ตามหน้าจอ",
+        "เลขที่เอกสารรับเข้า"
+      ],
+      [
+        "Supplier / Business Partner",
+        "Lookup",
+        "Yes",
+        "ผู้ส่งสินค้า"
+      ],
+      [
+        "Owner",
+        "Lookup",
+        "Yes",
+        "เจ้าของสินค้า"
+      ],
+      [
+        "Warehouse",
+        "Lookup",
+        "Yes",
+        "คลังปลายทาง"
+      ],
+      [
+        "Item / Barcode",
+        "Scan/Lookup",
+        "Yes",
+        "สินค้า/บาร์โค้ด"
+      ],
+      [
+        "Expected Qty",
+        "Number",
+        "ตามเอกสาร",
+        "จำนวนตามแผน"
+      ],
+      [
+        "Received Qty",
+        "Number",
+        "Yes",
+        "จำนวนรับจริง"
+      ],
+      [
+        "Lot / Serial / Expiry",
+        "Text/Date",
+        "ตาม Item",
+        "ข้อมูลควบคุมสินค้า"
+      ],
+      [
+        "Receiving Location",
+        "Lookup",
+        "Yes",
+        "ตำแหน่งพักรับ"
+      ]
+    ],
+    "flow": [
+      "ค้นหาหรือสร้าง Inbound Order",
+      "ตรวจสอบ Header และ Detail",
+      "Release งานให้ PDA หากกำหนด",
+      "สแกนเอกสาร/สินค้า",
+      "ระบุ Lot, Serial, Expiry และจำนวนจริง",
+      "ยืนยัน Receipt",
+      "พิมพ์ Label/Receipt ตามสิทธิ์",
+      "ส่งต่อ Put Away"
+    ],
+    "business": [
+      "Received Qty ต้องไม่เกินเงื่อนไขที่อนุญาต",
+      "Blind Receipt ใช้เมื่อไม่มีเอกสารคาดการณ์ตามกระบวนการที่อนุมัติ",
+      "Item ที่ควบคุม Lot/Serial ต้องกรอกครบ",
+      "Partial Receipt ต้องเหลือยอดค้างและสถานะที่ตรวจสอบได้"
+    ],
+    "scenarios": [
+      "รับครบตามแผน",
+      "รับบางส่วนและคง Remaining Qty",
+      "พบสินค้าเกิน/ผิด Item และหยุดเพื่อทบทวน"
+    ],
+    "sourceExcerpt": "",
+    "screenDescription": "หน้าจอ Print Sticker / Label ในหมวด การรับสินค้า แสดงส่วนค้นหา ข้อมูลหลัก ตารางรายละเอียด ปุ่มดำเนินการ สถานะ และข้อความแจ้งเตือนตามสิทธิ์ผู้ใช้",
+    "kpi": [
+      "ข้อมูลบังคับครบถ้วนก่อนบันทึก",
+      "ไม่มีรายการซ้ำหรือยอดติดลบ",
+      "สถานะเอกสารเปลี่ยนตามลำดับที่กำหนด",
+      "ค้นหาหลักฐานย้อนหลังจากเลขที่เอกสารได้"
+    ],
+    "tips": [
+      "ใช้ Search และตัวกรองเพื่อลดรายการบนหน้าจอ",
+      "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
+      "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
+      "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
+    ],
+    "images": [
+      "screen_067.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 62,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพประกอบ Print Sticker / Label"
+  },
+  {
+    "id": "x63",
+    "section": "การแพ็คและจัดส่งสินค้า",
+    "sectionEn": "Packing & Shipping",
+    "title": "Packing",
+    "objective": "ใช้งานหน้าจอ Packing ได้ครบตามขั้นตอน พร้อมตรวจสอบความถูกต้องและผลลัพธ์",
+    "steps": [
+      "เปิดเอกสารหรือ Picking Task",
+      "ตรวจสอบคลัง โซน และเส้นทางหยิบ",
+      "สแกน Location และ Item",
+      "กรอกหรือยืนยันจำนวนที่หยิบ",
+      "ยืนยันรายการและส่งต่อ Packing"
+    ],
+    "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
+    "keywords": "การแพ็คและจัดส่งสินค้า Packing & Shipping Outbound Order PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory Packing",
+    "image": "screen_068.png",
+    "preconditions": [
+      "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
+      "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
+      "Master Data ที่เกี่ยวข้องต้องอยู่ในสถานะ Active",
+      "อุปกรณ์ PC/PDA และเครือข่ายพร้อมใช้งาน"
+    ],
+    "controls": [
+      "New / Add: เริ่มสร้างรายการใหม่",
+      "Search: ค้นหาตามเงื่อนไขที่ระบุ",
+      "Save: บันทึกข้อมูลฉบับร่าง",
+      "Confirm / Release: ยืนยันรายการเข้าสู่กระบวนการ",
+      "Cancel / Clear: ยกเลิกหรือคืนค่าช่องค้นหา",
+      "Export / Print: ส่งออกหรือพิมพ์เอกสารตามสิทธิ์"
+    ],
+    "validation": [
+      "ช่องที่มีเครื่องหมายบังคับต้องมีข้อมูลครบ",
+      "รหัสอ้างอิงต้องมีอยู่และอยู่ในสถานะใช้งาน",
+      "จำนวนต้องเป็นตัวเลขและไม่ต่ำกว่าศูนย์",
+      "วันที่เอกสารต้องอยู่ในรูปแบบที่ระบบรองรับ",
+      "รายการซ้ำต้องได้รับการแจ้งเตือนก่อนบันทึก"
+    ],
+    "errors": [
+      "ไม่พบข้อมูล: ตรวจสอบรหัส คำค้น และตัวกรอง",
+      "ไม่มีสิทธิ์: ติดต่อผู้ดูแล User Group / Assign Menu",
+      "ข้อมูลไม่ครบ: ตรวจสอบช่องบังคับและรายการในตาราง",
+      "บันทึกไม่สำเร็จ: ตรวจสอบเครือข่ายและข้อความจากระบบ",
+      "รายการถูกใช้งานแล้ว: Refresh แล้วตรวจสอบสถานะล่าสุด"
+    ],
+    "audit": [
+      "บันทึกผู้สร้างและวันเวลาสร้าง",
+      "บันทึกผู้แก้ไขและวันเวลาแก้ไขล่าสุด",
+      "บันทึกการเปลี่ยนสถานะและเลขที่เอกสารอ้างอิง",
+      "ตรวจสอบย้อนหลังผ่าน Transaction Log ตามสิทธิ์"
+    ],
+    "roles": [
+      {
+        "role": "Administrator",
+        "access": "ตั้งค่า ดู เพิ่ม แก้ไข ยกเลิก และตรวจสอบ Log"
+      },
+      {
+        "role": "Supervisor",
+        "access": "สร้าง ตรวจสอบ อนุมัติ/ยืนยัน และติดตามสถานะ"
+      },
+      {
+        "role": "Operator",
+        "access": "ค้นหา สแกน บันทึกงาน และยืนยันตามสิทธิ์ที่ได้รับ"
+      },
+      {
+        "role": "Viewer / Auditor",
+        "access": "ดู ค้นหา Export และตรวจสอบย้อนหลัง โดยไม่แก้ไขข้อมูล"
+      }
+    ],
+    "fields": [
+      [
+        "Outbound No.",
+        "Text/Auto",
+        "Yes",
+        "เลขที่เอกสารจ่ายออก"
+      ],
+      [
+        "Customer / Ship To",
+        "Lookup",
+        "Yes",
+        "ผู้รับและสถานที่ส่ง"
+      ],
+      [
+        "Warehouse",
+        "Lookup",
+        "Yes",
+        "คลังต้นทาง"
+      ],
+      [
+        "Item / Qty",
+        "Grid",
+        "Yes",
+        "รายการและจำนวนที่ต้องส่ง"
+      ],
+      [
+        "Package / LPN",
+        "Text/Scan",
+        "ตามกระบวนการ",
+        "หน่วยบรรจุ"
+      ],
+      [
+        "Vehicle / Route",
+        "Text/Lookup",
+        "ตามการตั้งค่า",
+        "ข้อมูลขนส่ง"
+      ],
+      [
+        "Ship Confirm",
+        "Button",
+        "Yes",
+        "ยืนยันตัดส่ง"
+      ]
+    ],
+    "flow": [
+      "สร้าง/Import Outbound Order",
+      "Validate และ Release",
+      "Allocate Stock",
+      "สร้าง Picking Task",
+      "ยืนยัน Picking",
+      "ตรวจสอบและ Packing",
+      "พิมพ์ Picking Slip/Delivery Note",
+      "Confirm Ship",
+      "ตรวจสอบสถานะปิดงานและ Stock Transaction"
+    ],
+    "business": [
+      "ต้องไม่ Confirm Ship ก่อนตรวจสอบ Picking/Packing",
+      "Customer และ Ship To ต้องถูกต้อง",
+      "เอกสารที่ส่งแล้วแก้ไขได้เฉพาะตามสิทธิ์และขั้นตอนย้อนกลับ"
+    ],
+    "scenarios": [
+      "ส่งครบ",
+      "ส่งบางส่วนและเหลือ Backorder",
+      "เอกสารไม่ผ่านเพราะยัง Picking ไม่ครบ"
+    ],
+    "sourceExcerpt": "ผู้ปฏิบัติงานเปิดเมนู Outbound Order / Mobile Blind Pick เพื่อใช้งานหน้าจอ Blind Pick โดยใช้ข้อมูลจากเอกสารอ้างอิงหรือการสแกนบาร์โค้ด จากนั้นตรวจสอบผลลัพธ์ว่ารายการได้รับการบันทึกและเปลี่ยนสถานะถูกต้อง ตรวจสอบหมายเลขเอกสาร สถานะ และตำแหน่งหยิบก่อนดำเนินการ ควรยืนยันจำนวนที่หยิบจริงทุกครั้ง ระบบบันทึกความคืบหน้าการหยิบสินค้าและพร้อมส่งต่อขั้นตอนถัดไป หมายเหตุ: คำอธิบายหน้าจอนี้ยึดตามภาพที่มองเห็นได้และชื่อไฟล์อ้างอิงเป็นหลัก หากบางฟิลด์หรือสิทธิ์ไม่ปรากฏในระบบจริง ให้ยึดตามการตั้งค่าหน่วยงานและบทบาทผู้ใช้ ผู้ปฏิบัติงานเปิดเมนู Outbound Order / Mobile Blind Pick เพื่อใช้งานหน้าจอ Blind Pick / NewPick โดยใช้ข้อมูลจากเอกสารอ้างอิงหรือการสแกนบาร์โค้ด จากนั้นตรวจสอบผลลัพธ์ว่ารายการได้รับการบันทึกและเปลี่ยนสถานะถูกต้อง ผู้ปฏิบัติงานเปิดเมนู Outbound Order / Mobile Blind Pick เพื่อใช้งานหน้าจอ Blind Pick / Pick โดยใช้ข้อมูลจากเอกสารอ้างอิงหรือการสแกนบาร์โค้ด จากนั้นตรวจสอบผลลัพธ์ว่ารายการได้รับการบันทึกและเปลี่ยนสถานะถูกต้อง ผู้ปฏิบัติงานเปิดเมนู Outbound Order / Mobile เพื่อใช้งานหน้าจอ Picking โดยใช้ข้อมูลจากเอกสารอ้างอิงหรือการสแกนบาร์โค้ด จากนั้นตรวจสอบผลลัพธ์ว่ารายการได้รับการบันทึกและเปลี่ยนสถานะถูกต้อง",
+    "screenDescription": "หน้าจอ Packing ในหมวด การแพ็คและจัดส่งสินค้า แสดงส่วนค้นหา ข้อมูลหลัก ตารางรายละเอียด ปุ่มดำเนินการ สถานะ และข้อความแจ้งเตือนตามสิทธิ์ผู้ใช้",
+    "kpi": [
+      "ข้อมูลบังคับครบถ้วนก่อนบันทึก",
+      "ไม่มีรายการซ้ำหรือยอดติดลบ",
+      "สถานะเอกสารเปลี่ยนตามลำดับที่กำหนด",
+      "ค้นหาหลักฐานย้อนหลังจากเลขที่เอกสารได้"
+    ],
+    "tips": [
+      "ใช้ Search และตัวกรองเพื่อลดรายการบนหน้าจอ",
+      "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
+      "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
+      "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
+    ],
+    "images": [
+      "screen_068.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 63,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพประกอบ Packing"
+  },
+  {
+    "id": "x64",
+    "section": "การแพ็คและจัดส่งสินค้า",
+    "sectionEn": "Packing & Shipping",
+    "title": "Shipping / Confirm Ship",
+    "objective": "ใช้งานหน้าจอ Shipping / Confirm Ship ได้ครบตามขั้นตอน พร้อมตรวจสอบความถูกต้องและผลลัพธ์",
+    "steps": [
+      "เปิดเอกสารหรือ Picking Task",
+      "ตรวจสอบคลัง โซน และเส้นทางหยิบ",
+      "สแกน Location และ Item",
+      "กรอกหรือยืนยันจำนวนที่หยิบ",
+      "ยืนยันรายการและส่งต่อ Packing"
+    ],
+    "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
+    "keywords": "การแพ็คและจัดส่งสินค้า Packing & Shipping Outbound Order PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory Shipping / Confirm Ship",
+    "image": "screen_069.png",
+    "preconditions": [
+      "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
+      "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
+      "Master Data ที่เกี่ยวข้องต้องอยู่ในสถานะ Active",
+      "อุปกรณ์ PC/PDA และเครือข่ายพร้อมใช้งาน"
+    ],
+    "controls": [
+      "New / Add: เริ่มสร้างรายการใหม่",
+      "Search: ค้นหาตามเงื่อนไขที่ระบุ",
+      "Save: บันทึกข้อมูลฉบับร่าง",
+      "Confirm / Release: ยืนยันรายการเข้าสู่กระบวนการ",
+      "Cancel / Clear: ยกเลิกหรือคืนค่าช่องค้นหา",
+      "Export / Print: ส่งออกหรือพิมพ์เอกสารตามสิทธิ์"
+    ],
+    "validation": [
+      "ช่องที่มีเครื่องหมายบังคับต้องมีข้อมูลครบ",
+      "รหัสอ้างอิงต้องมีอยู่และอยู่ในสถานะใช้งาน",
+      "จำนวนต้องเป็นตัวเลขและไม่ต่ำกว่าศูนย์",
+      "วันที่เอกสารต้องอยู่ในรูปแบบที่ระบบรองรับ",
+      "รายการซ้ำต้องได้รับการแจ้งเตือนก่อนบันทึก"
+    ],
+    "errors": [
+      "ไม่พบข้อมูล: ตรวจสอบรหัส คำค้น และตัวกรอง",
+      "ไม่มีสิทธิ์: ติดต่อผู้ดูแล User Group / Assign Menu",
+      "ข้อมูลไม่ครบ: ตรวจสอบช่องบังคับและรายการในตาราง",
+      "บันทึกไม่สำเร็จ: ตรวจสอบเครือข่ายและข้อความจากระบบ",
+      "รายการถูกใช้งานแล้ว: Refresh แล้วตรวจสอบสถานะล่าสุด"
+    ],
+    "audit": [
+      "บันทึกผู้สร้างและวันเวลาสร้าง",
+      "บันทึกผู้แก้ไขและวันเวลาแก้ไขล่าสุด",
+      "บันทึกการเปลี่ยนสถานะและเลขที่เอกสารอ้างอิง",
+      "ตรวจสอบย้อนหลังผ่าน Transaction Log ตามสิทธิ์"
+    ],
+    "roles": [
+      {
+        "role": "Administrator",
+        "access": "ตั้งค่า ดู เพิ่ม แก้ไข ยกเลิก และตรวจสอบ Log"
+      },
+      {
+        "role": "Supervisor",
+        "access": "สร้าง ตรวจสอบ อนุมัติ/ยืนยัน และติดตามสถานะ"
+      },
+      {
+        "role": "Operator",
+        "access": "ค้นหา สแกน บันทึกงาน และยืนยันตามสิทธิ์ที่ได้รับ"
+      },
+      {
+        "role": "Viewer / Auditor",
+        "access": "ดู ค้นหา Export และตรวจสอบย้อนหลัง โดยไม่แก้ไขข้อมูล"
+      }
+    ],
+    "fields": [
+      [
+        "Outbound No.",
+        "Text/Auto",
+        "Yes",
+        "เลขที่เอกสารจ่ายออก"
+      ],
+      [
+        "Customer / Ship To",
+        "Lookup",
+        "Yes",
+        "ผู้รับและสถานที่ส่ง"
+      ],
+      [
+        "Warehouse",
+        "Lookup",
+        "Yes",
+        "คลังต้นทาง"
+      ],
+      [
+        "Item / Qty",
+        "Grid",
+        "Yes",
+        "รายการและจำนวนที่ต้องส่ง"
+      ],
+      [
+        "Package / LPN",
+        "Text/Scan",
+        "ตามกระบวนการ",
+        "หน่วยบรรจุ"
+      ],
+      [
+        "Vehicle / Route",
+        "Text/Lookup",
+        "ตามการตั้งค่า",
+        "ข้อมูลขนส่ง"
+      ],
+      [
+        "Ship Confirm",
+        "Button",
+        "Yes",
+        "ยืนยันตัดส่ง"
+      ]
+    ],
+    "flow": [
+      "สร้าง/Import Outbound Order",
+      "Validate และ Release",
+      "Allocate Stock",
+      "สร้าง Picking Task",
+      "ยืนยัน Picking",
+      "ตรวจสอบและ Packing",
+      "พิมพ์ Picking Slip/Delivery Note",
+      "Confirm Ship",
+      "ตรวจสอบสถานะปิดงานและ Stock Transaction"
+    ],
+    "business": [
+      "ต้องไม่ Confirm Ship ก่อนตรวจสอบ Picking/Packing",
+      "Customer และ Ship To ต้องถูกต้อง",
+      "เอกสารที่ส่งแล้วแก้ไขได้เฉพาะตามสิทธิ์และขั้นตอนย้อนกลับ"
+    ],
+    "scenarios": [
+      "ส่งครบ",
+      "ส่งบางส่วนและเหลือ Backorder",
+      "เอกสารไม่ผ่านเพราะยัง Picking ไม่ครบ"
+    ],
+    "sourceExcerpt": "ผู้ปฏิบัติงานเปิดเมนู Outbound Order / Mobile Blind Pick เพื่อใช้งานหน้าจอ Blind Pick โดยใช้ข้อมูลจากเอกสารอ้างอิงหรือการสแกนบาร์โค้ด จากนั้นตรวจสอบผลลัพธ์ว่ารายการได้รับการบันทึกและเปลี่ยนสถานะถูกต้อง ตรวจสอบหมายเลขเอกสาร สถานะ และตำแหน่งหยิบก่อนดำเนินการ ควรยืนยันจำนวนที่หยิบจริงทุกครั้ง ระบบบันทึกความคืบหน้าการหยิบสินค้าและพร้อมส่งต่อขั้นตอนถัดไป หมายเหตุ: คำอธิบายหน้าจอนี้ยึดตามภาพที่มองเห็นได้และชื่อไฟล์อ้างอิงเป็นหลัก หากบางฟิลด์หรือสิทธิ์ไม่ปรากฏในระบบจริง ให้ยึดตามการตั้งค่าหน่วยงานและบทบาทผู้ใช้ ผู้ปฏิบัติงานเปิดเมนู Outbound Order / Mobile Blind Pick เพื่อใช้งานหน้าจอ Blind Pick / NewPick โดยใช้ข้อมูลจากเอกสารอ้างอิงหรือการสแกนบาร์โค้ด จากนั้นตรวจสอบผลลัพธ์ว่ารายการได้รับการบันทึกและเปลี่ยนสถานะถูกต้อง ผู้ปฏิบัติงานเปิดเมนู Outbound Order / Mobile Blind Pick เพื่อใช้งานหน้าจอ Blind Pick / Pick โดยใช้ข้อมูลจากเอกสารอ้างอิงหรือการสแกนบาร์โค้ด จากนั้นตรวจสอบผลลัพธ์ว่ารายการได้รับการบันทึกและเปลี่ยนสถานะถูกต้อง ผู้ปฏิบัติงานเปิดเมนู Outbound Order / Mobile เพื่อใช้งานหน้าจอ Picking โดยใช้ข้อมูลจากเอกสารอ้างอิงหรือการสแกนบาร์โค้ด จากนั้นตรวจสอบผลลัพธ์ว่ารายการได้รับการบันทึกและเปลี่ยนสถานะถูกต้อง",
+    "screenDescription": "หน้าจอ Shipping / Confirm Ship ในหมวด การแพ็คและจัดส่งสินค้า แสดงส่วนค้นหา ข้อมูลหลัก ตารางรายละเอียด ปุ่มดำเนินการ สถานะ และข้อความแจ้งเตือนตามสิทธิ์ผู้ใช้",
+    "kpi": [
+      "ข้อมูลบังคับครบถ้วนก่อนบันทึก",
+      "ไม่มีรายการซ้ำหรือยอดติดลบ",
+      "สถานะเอกสารเปลี่ยนตามลำดับที่กำหนด",
+      "ค้นหาหลักฐานย้อนหลังจากเลขที่เอกสารได้"
+    ],
+    "tips": [
+      "ใช้ Search และตัวกรองเพื่อลดรายการบนหน้าจอ",
+      "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
+      "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
+      "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
+    ],
+    "images": [
+      "screen_069.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 64,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพประกอบ Shipping / Confirm Ship"
+  },
+  {
+    "id": "x65",
+    "section": "การตรวจนับสินค้า",
+    "sectionEn": "Stock Count",
+    "title": "Cycle Count Approval",
+    "objective": "ใช้งานหน้าจอ Cycle Count Approval ได้ครบตามขั้นตอน พร้อมตรวจสอบความถูกต้องและผลลัพธ์",
+    "steps": [
+      "สร้างหรือเปิดรอบตรวจนับ",
+      "เลือก Warehouse/Zone/Location",
+      "สแกนสินค้าและกรอกจำนวนจริง",
+      "ทบทวนผลต่าง",
+      "อนุมัติ Reconciliation ตามสิทธิ์"
+    ],
+    "expected": "ได้ผลการนับและรายการผลต่างสำหรับอนุมัติปรับยอด",
+    "keywords": "การตรวจนับสินค้า Stock Count Inventory Counting PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory Cycle Count Approval",
+    "image": "screen_070.png",
+    "preconditions": [
+      "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
+      "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
+      "Master Data ที่เกี่ยวข้องต้องอยู่ในสถานะ Active",
+      "อุปกรณ์ PC/PDA และเครือข่ายพร้อมใช้งาน"
+    ],
+    "controls": [
+      "New / Add: เริ่มสร้างรายการใหม่",
+      "Search: ค้นหาตามเงื่อนไขที่ระบุ",
+      "Save: บันทึกข้อมูลฉบับร่าง",
+      "Confirm / Release: ยืนยันรายการเข้าสู่กระบวนการ",
+      "Cancel / Clear: ยกเลิกหรือคืนค่าช่องค้นหา",
+      "Export / Print: ส่งออกหรือพิมพ์เอกสารตามสิทธิ์"
+    ],
+    "validation": [
+      "ช่องที่มีเครื่องหมายบังคับต้องมีข้อมูลครบ",
+      "รหัสอ้างอิงต้องมีอยู่และอยู่ในสถานะใช้งาน",
+      "จำนวนต้องเป็นตัวเลขและไม่ต่ำกว่าศูนย์",
+      "วันที่เอกสารต้องอยู่ในรูปแบบที่ระบบรองรับ",
+      "รายการซ้ำต้องได้รับการแจ้งเตือนก่อนบันทึก"
+    ],
+    "errors": [
+      "ไม่พบข้อมูล: ตรวจสอบรหัส คำค้น และตัวกรอง",
+      "ไม่มีสิทธิ์: ติดต่อผู้ดูแล User Group / Assign Menu",
+      "ข้อมูลไม่ครบ: ตรวจสอบช่องบังคับและรายการในตาราง",
+      "บันทึกไม่สำเร็จ: ตรวจสอบเครือข่ายและข้อความจากระบบ",
+      "รายการถูกใช้งานแล้ว: Refresh แล้วตรวจสอบสถานะล่าสุด"
+    ],
+    "audit": [
+      "บันทึกผู้สร้างและวันเวลาสร้าง",
+      "บันทึกผู้แก้ไขและวันเวลาแก้ไขล่าสุด",
+      "บันทึกการเปลี่ยนสถานะและเลขที่เอกสารอ้างอิง",
+      "ตรวจสอบย้อนหลังผ่าน Transaction Log ตามสิทธิ์"
+    ],
+    "roles": [
+      {
+        "role": "Administrator",
+        "access": "ตั้งค่า ดู เพิ่ม แก้ไข ยกเลิก และตรวจสอบ Log"
+      },
+      {
+        "role": "Supervisor",
+        "access": "สร้าง ตรวจสอบ อนุมัติ/ยืนยัน และติดตามสถานะ"
+      },
+      {
+        "role": "Operator",
+        "access": "ค้นหา สแกน บันทึกงาน และยืนยันตามสิทธิ์ที่ได้รับ"
+      },
+      {
+        "role": "Viewer / Auditor",
+        "access": "ดู ค้นหา Export และตรวจสอบย้อนหลัง โดยไม่แก้ไขข้อมูล"
+      }
+    ],
+    "fields": [
+      [
+        "Count No.",
+        "Text/Auto",
+        "Yes",
+        "เลขที่รอบตรวจนับ"
+      ],
+      [
+        "Warehouse / Zone / Location",
+        "Filter",
+        "Yes",
+        "ขอบเขตตรวจนับ"
+      ],
+      [
+        "Item / Barcode",
+        "Scan",
+        "Yes",
+        "สินค้าที่ตรวจ"
+      ],
+      [
+        "System Qty",
+        "Display",
+        "ตามสิทธิ์",
+        "ยอดในระบบ"
+      ],
+      [
+        "Counted Qty",
+        "Number",
+        "Yes",
+        "ยอดนับจริง"
+      ],
+      [
+        "Variance",
+        "Calculated",
+        "Auto",
+        "ผลต่าง"
+      ],
+      [
+        "Reason / Remark",
+        "Text",
+        "เมื่อมีผลต่าง",
+        "เหตุผลประกอบ"
+      ]
+    ],
+    "flow": [
+      "สร้าง Count Plan",
+      "Freeze/กำหนดขอบเขตตามนโยบาย",
+      "ส่งงานให้ PDA",
+      "สแกน Location และ Item",
+      "บันทึก Counted Qty",
+      "ตรวจสอบ Missing/Duplicate",
+      "ส่งผล Count",
+      "Supervisor ทำ Reconciliation",
+      "อนุมัติ Adjustment และตรวจ Log"
+    ],
+    "business": [
+      "ผู้ตรวจนับไม่ควรแก้ System Qty",
+      "ผลต่างเกินเกณฑ์ควร Recount/Approve",
+      "สินค้าที่เคลื่อนไหวระหว่างนับต้องจัดการตาม Cut-off"
+    ],
+    "scenarios": [
+      "ยอดตรง",
+      "ยอดขาด/เกินและ Recount",
+      "อนุมัติผลต่างและสร้าง Adjustment"
+    ],
+    "sourceExcerpt": "ใช้สำหรับวางแผนและบันทึกผลการตรวจนับสินค้า เข้าสู่เมนูที่เกี่ยวข้องจากโครงสร้างเมนูหลักของระบบ ตรวจสอบข้อมูลอ้างอิง เช่น รหัสเอกสาร ผู้เกี่ยวข้อง วันที่ หรือสถานะที่ปรากฏบนหน้าจอ กรอกข้อมูลในฟิลด์ที่จำเป็น หรือเลือกคำสั่งจากปุ่ม/แถบเครื่องมือให้ครบถ้วน ทบทวนรายการในตารางหรือค่าที่ผู้ใช้สแกน/ป้อนก่อนบันทึก ยืนยัน หรือพิมพ์เอกสาร ผู้ปฏิบัติงานเปิดเมนู Counting / PC เพื่อใช้งานหน้าจอ Inventory Counting โดยใช้ข้อมูลจากเอกสารอ้างอิงหรือการสแกนบาร์โค้ด จากนั้นตรวจสอบผลลัพธ์ว่ารายการได้รับการบันทึกและเปลี่ยนสถานะถูกต้อง เลือกประเภทการนับและวันที่แผนให้ถูกต้อง ตรวจสอบตำแหน่ง ล็อต และวันหมดอายุขณะนับ ผลการตรวจนับสามารถนำไปกระทบยอดและวิเคราะห์ส่วนต่างได้ หมายเหตุ: คำอธิบายหน้าจอนี้ยึดตามภาพที่มองเห็นได้และชื่อไฟล์อ้างอิงเป็นหลัก หากบางฟิลด์หรือสิทธิ์ไม่ปรากฏในระบบจริง ให้ยึดตามการตั้งค่าหน่วยงานและบทบาทผู้ใช้ 39. Inventory Counting / Create Counting Plan ผู้ปฏิบัติงานเปิดเมนู Counting / PC เพื่อใช้งานหน้าจอ Inventory Counting / Create Counting Plan โดยใช้ข้อมูลจากเอกสารอ้างอิงหรือการสแกนบาร์โค้ด จากนั้นตรวจสอบผลลัพธ์ว่ารายการได้รับการบันทึกและเปลี่ยนสถานะถูกต้อง 40. Inventory Counting / Delete Confirmation",
+    "screenDescription": "หน้าจอ Cycle Count Approval ในหมวด การตรวจนับสินค้า แสดงส่วนค้นหา ข้อมูลหลัก ตารางรายละเอียด ปุ่มดำเนินการ สถานะ และข้อความแจ้งเตือนตามสิทธิ์ผู้ใช้",
+    "kpi": [
+      "ข้อมูลบังคับครบถ้วนก่อนบันทึก",
+      "ไม่มีรายการซ้ำหรือยอดติดลบ",
+      "สถานะเอกสารเปลี่ยนตามลำดับที่กำหนด",
+      "ค้นหาหลักฐานย้อนหลังจากเลขที่เอกสารได้"
+    ],
+    "tips": [
+      "ใช้ Search และตัวกรองเพื่อลดรายการบนหน้าจอ",
+      "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
+      "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
+      "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
+    ],
+    "images": [
+      "screen_070.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 65,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพประกอบ Cycle Count Approval"
+  },
+  {
+    "id": "x66",
+    "section": "FAQ & Troubleshooting",
+    "sectionEn": "Help Center",
+    "title": "Error Message Catalog",
+    "objective": "ใช้งานหน้าจอ Error Message Catalog ได้ครบตามขั้นตอน พร้อมตรวจสอบความถูกต้องและผลลัพธ์",
+    "steps": [
+      "เปิดเมนูจากสารบัญด้านซ้าย",
+      "อ่านวัตถุประสงค์และเงื่อนไขก่อนเริ่ม",
+      "กรอกข้อมูลที่มีเครื่องหมายจำเป็น",
+      "ตรวจสอบข้อมูลก่อนกดบันทึกหรือยืนยัน",
+      "ตรวจสอบข้อความสำเร็จและผลลัพธ์"
+    ],
+    "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
+    "keywords": "FAQ & Troubleshooting Help Center FAQ PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory Error Message Catalog",
+    "image": "screen_071.png",
+    "preconditions": [
+      "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
+      "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
+      "Master Data ที่เกี่ยวข้องต้องอยู่ในสถานะ Active",
+      "อุปกรณ์ PC/PDA และเครือข่ายพร้อมใช้งาน"
+    ],
+    "controls": [
+      "New / Add: เริ่มสร้างรายการใหม่",
+      "Search: ค้นหาตามเงื่อนไขที่ระบุ",
+      "Save: บันทึกข้อมูลฉบับร่าง",
+      "Confirm / Release: ยืนยันรายการเข้าสู่กระบวนการ",
+      "Cancel / Clear: ยกเลิกหรือคืนค่าช่องค้นหา",
+      "Export / Print: ส่งออกหรือพิมพ์เอกสารตามสิทธิ์"
+    ],
+    "validation": [
+      "ช่องที่มีเครื่องหมายบังคับต้องมีข้อมูลครบ",
+      "รหัสอ้างอิงต้องมีอยู่และอยู่ในสถานะใช้งาน",
+      "จำนวนต้องเป็นตัวเลขและไม่ต่ำกว่าศูนย์",
+      "วันที่เอกสารต้องอยู่ในรูปแบบที่ระบบรองรับ",
+      "รายการซ้ำต้องได้รับการแจ้งเตือนก่อนบันทึก"
+    ],
+    "errors": [
+      "ไม่พบข้อมูล: ตรวจสอบรหัส คำค้น และตัวกรอง",
+      "ไม่มีสิทธิ์: ติดต่อผู้ดูแล User Group / Assign Menu",
+      "ข้อมูลไม่ครบ: ตรวจสอบช่องบังคับและรายการในตาราง",
+      "บันทึกไม่สำเร็จ: ตรวจสอบเครือข่ายและข้อความจากระบบ",
+      "รายการถูกใช้งานแล้ว: Refresh แล้วตรวจสอบสถานะล่าสุด"
+    ],
+    "audit": [
+      "บันทึกผู้สร้างและวันเวลาสร้าง",
+      "บันทึกผู้แก้ไขและวันเวลาแก้ไขล่าสุด",
+      "บันทึกการเปลี่ยนสถานะและเลขที่เอกสารอ้างอิง",
+      "ตรวจสอบย้อนหลังผ่าน Transaction Log ตามสิทธิ์"
+    ],
+    "roles": [
+      {
+        "role": "Administrator",
+        "access": "ตั้งค่า ดู เพิ่ม แก้ไข ยกเลิก และตรวจสอบ Log"
+      },
+      {
+        "role": "Supervisor",
+        "access": "สร้าง ตรวจสอบ อนุมัติ/ยืนยัน และติดตามสถานะ"
+      },
+      {
+        "role": "Operator",
+        "access": "ค้นหา สแกน บันทึกงาน และยืนยันตามสิทธิ์ที่ได้รับ"
+      },
+      {
+        "role": "Viewer / Auditor",
+        "access": "ดู ค้นหา Export และตรวจสอบย้อนหลัง โดยไม่แก้ไขข้อมูล"
+      }
+    ],
+    "fields": [
+      [
+        "Search Criteria",
+        "Text/Select",
+        "No",
+        "เงื่อนไขค้นหา"
+      ],
+      [
+        "Data Grid / Menu",
+        "Display",
+        "Yes",
+        "รายการหรือเมนูที่ระบบแสดง"
+      ],
+      [
+        "Status",
+        "Display",
+        "Auto",
+        "สถานะข้อมูลล่าสุด"
+      ],
+      [
+        "Action",
+        "Button",
+        "ตามสิทธิ์",
+        "คำสั่งที่ใช้ดำเนินงาน"
+      ]
+    ],
+    "flow": [
+      "เลือกเมนูจากสารบัญ",
+      "อ่านรายละเอียดหน้าจอและเงื่อนไข",
+      "กำหนดตัวกรองหรือข้อมูลนำเข้า",
+      "กดคำสั่งที่ต้องการ",
+      "ตรวจสอบข้อความและสถานะ",
+      "เปิดรายละเอียดเพื่อยืนยันผล"
+    ],
+    "business": [
+      "แสดงข้อมูลตามสิทธิ์ของผู้ใช้",
+      "ทุกการแก้ไขควรตรวจสอบก่อนยืนยัน",
+      "ใช้ข้อมูล Master ที่ Active เท่านั้น"
+    ],
+    "scenarios": [
+      "ค้นหาและเปิดรายละเอียด",
+      "สร้างรายการใหม่",
+      "แก้ไขรายการเดิมและตรวจสอบผล"
+    ],
+    "sourceExcerpt": "คู่มือฉบับนี้จัดทำขึ้นเพื่อเป็นมาตรฐานการใช้งานระบบ My Inventory สำหรับองค์กร OGA INTERNATIONAL โดยเรียบเรียงลำดับตามเมนูใช้งานจริง ครอบคลุมการทำงานบนคอมพิวเตอร์และอุปกรณ์ Mobile PDA Scanner พร้อมภาพประกอบทุกส่วนที่มีอยู่ในชุดข้อมูลอ้างอิง เอกสารเน้นการอธิบายวัตถุประสงค์ ขั้นตอนการทำงาน คำอธิบายส่วนต่าง ๆ ของหน้าจอ ตัวอย่างการใช้งาน ข้อควรระวัง และผลลัพธ์ที่คาดหวัง เพื่อให้ผู้ใช้ใหม่สามารถเรียนรู้ระบบได้อย่างเป็นลำดับ และผู้ดูแลระบบสามารถใช้อ้างอิงในการสอนงานหรือตรวจสอบขั้นตอนปฏิบัติงานได้ จำนวนภาพหน้าจอที่ถูกนำมาใช้ในคู่มือฉบับนี้มีทั้งหมด 162 ภาพ ซึ่งช่วยให้คู่มือมีความครอบคลุมในระดับปฏิบัติการจริง ทั้งในส่วน Authentication, Dashboard, Master Data, Inbound, Outbound, Inventory, Counting, Reports และการตั้งค่าระบบ คำอธิบายทุกหน้าจอยึดตามสิ่งที่มองเห็นได้ในภาพหน้าจอเป็นหลัก หน้าจอค้างหรือโหลดช้า: รีเฟรชหน้าจอ ตรวจสอบสัญญาณเครือข่าย และลองเข้าสู่ระบบใหม่ สแกนบาร์โค้ดแล้วไม่พบข้อมูล: ตรวจสอบรหัสสินค้า/ตำแหน่ง, รูปแบบบาร์โค้ด, และสิทธิ์การใช้งานเมนูที่เกี่ยวข้อง บันทึกรายการไม่ผ่าน: ตรวจสอบฟิลด์บังคับ ค่าที่ซ้ำ หรือข้อมูลอ้างอิงที่ยังไม่ถูกสร้างใน Master Data พิมพ์รายงานไม่ได้: ตรวจสอบสิทธิ์การเข้าถึงรายงาน การเลือกตัวกรอง และเครื่องพิมพ์/เบราว์เซอร์ สรุปกระบวนการที่ต้องยืนยันข้อกำหนด และเงื่อนไขภายใต้เอกสาร \"ระบบ My Inventory โดยให้ตัวแทนบริษัทที่ได้รับอนุญาตเซ็นยืนยันในพื้นที่ด้านล่างนี้",
+    "screenDescription": "หน้าจอ Error Message Catalog ในหมวด FAQ & Troubleshooting แสดงส่วนค้นหา ข้อมูลหลัก ตารางรายละเอียด ปุ่มดำเนินการ สถานะ และข้อความแจ้งเตือนตามสิทธิ์ผู้ใช้",
+    "kpi": [
+      "ข้อมูลบังคับครบถ้วนก่อนบันทึก",
+      "ไม่มีรายการซ้ำหรือยอดติดลบ",
+      "สถานะเอกสารเปลี่ยนตามลำดับที่กำหนด",
+      "ค้นหาหลักฐานย้อนหลังจากเลขที่เอกสารได้"
+    ],
+    "tips": [
+      "ใช้ Search และตัวกรองเพื่อลดรายการบนหน้าจอ",
+      "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
+      "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
+      "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
+    ],
+    "images": [
+      "screen_071.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 66,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพประกอบ Error Message Catalog"
+  },
+  {
+    "id": "x67",
+    "section": "ภาพรวมระบบ",
+    "sectionEn": "Overview & Infrastructure",
+    "title": "Navigation Map PC",
+    "objective": "ใช้งานหน้าจอ Navigation Map PC ได้ครบตามขั้นตอน พร้อมตรวจสอบความถูกต้องและผลลัพธ์",
+    "steps": [
+      "เปิดเมนูจากสารบัญด้านซ้าย",
+      "อ่านวัตถุประสงค์และเงื่อนไขก่อนเริ่ม",
+      "กรอกข้อมูลที่มีเครื่องหมายจำเป็น",
+      "ตรวจสอบข้อมูลก่อนกดบันทึกหรือยืนยัน",
+      "ตรวจสอบข้อความสำเร็จและผลลัพธ์"
+    ],
+    "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
+    "keywords": "ภาพรวมระบบ Overview & Infrastructure ภาพรวมระบบ My Inventory PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory Navigation Map PC",
+    "image": "screen_072.png",
+    "preconditions": [
+      "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
+      "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
+      "Master Data ที่เกี่ยวข้องต้องอยู่ในสถานะ Active",
+      "อุปกรณ์ PC/PDA และเครือข่ายพร้อมใช้งาน"
+    ],
+    "controls": [
+      "New / Add: เริ่มสร้างรายการใหม่",
+      "Search: ค้นหาตามเงื่อนไขที่ระบุ",
+      "Save: บันทึกข้อมูลฉบับร่าง",
+      "Confirm / Release: ยืนยันรายการเข้าสู่กระบวนการ",
+      "Cancel / Clear: ยกเลิกหรือคืนค่าช่องค้นหา",
+      "Export / Print: ส่งออกหรือพิมพ์เอกสารตามสิทธิ์"
+    ],
+    "validation": [
+      "ช่องที่มีเครื่องหมายบังคับต้องมีข้อมูลครบ",
+      "รหัสอ้างอิงต้องมีอยู่และอยู่ในสถานะใช้งาน",
+      "จำนวนต้องเป็นตัวเลขและไม่ต่ำกว่าศูนย์",
+      "วันที่เอกสารต้องอยู่ในรูปแบบที่ระบบรองรับ",
+      "รายการซ้ำต้องได้รับการแจ้งเตือนก่อนบันทึก"
+    ],
+    "errors": [
+      "ไม่พบข้อมูล: ตรวจสอบรหัส คำค้น และตัวกรอง",
+      "ไม่มีสิทธิ์: ติดต่อผู้ดูแล User Group / Assign Menu",
+      "ข้อมูลไม่ครบ: ตรวจสอบช่องบังคับและรายการในตาราง",
+      "บันทึกไม่สำเร็จ: ตรวจสอบเครือข่ายและข้อความจากระบบ",
+      "รายการถูกใช้งานแล้ว: Refresh แล้วตรวจสอบสถานะล่าสุด"
+    ],
+    "audit": [
+      "บันทึกผู้สร้างและวันเวลาสร้าง",
+      "บันทึกผู้แก้ไขและวันเวลาแก้ไขล่าสุด",
+      "บันทึกการเปลี่ยนสถานะและเลขที่เอกสารอ้างอิง",
+      "ตรวจสอบย้อนหลังผ่าน Transaction Log ตามสิทธิ์"
+    ],
+    "roles": [
+      {
+        "role": "Administrator",
+        "access": "ตั้งค่า ดู เพิ่ม แก้ไข ยกเลิก และตรวจสอบ Log"
+      },
+      {
+        "role": "Supervisor",
+        "access": "สร้าง ตรวจสอบ อนุมัติ/ยืนยัน และติดตามสถานะ"
+      },
+      {
+        "role": "Operator",
+        "access": "ค้นหา สแกน บันทึกงาน และยืนยันตามสิทธิ์ที่ได้รับ"
+      },
+      {
+        "role": "Viewer / Auditor",
+        "access": "ดู ค้นหา Export และตรวจสอบย้อนหลัง โดยไม่แก้ไขข้อมูล"
+      }
+    ],
+    "fields": [
+      [
+        "Search Criteria",
+        "Text/Select",
+        "No",
+        "เงื่อนไขค้นหา"
+      ],
+      [
+        "Data Grid / Menu",
+        "Display",
+        "Yes",
+        "รายการหรือเมนูที่ระบบแสดง"
+      ],
+      [
+        "Status",
+        "Display",
+        "Auto",
+        "สถานะข้อมูลล่าสุด"
+      ],
+      [
+        "Action",
+        "Button",
+        "ตามสิทธิ์",
+        "คำสั่งที่ใช้ดำเนินงาน"
+      ]
+    ],
+    "flow": [
+      "เลือกเมนูจากสารบัญ",
+      "อ่านรายละเอียดหน้าจอและเงื่อนไข",
+      "กำหนดตัวกรองหรือข้อมูลนำเข้า",
+      "กดคำสั่งที่ต้องการ",
+      "ตรวจสอบข้อความและสถานะ",
+      "เปิดรายละเอียดเพื่อยืนยันผล"
+    ],
+    "business": [
+      "แสดงข้อมูลตามสิทธิ์ของผู้ใช้",
+      "ทุกการแก้ไขควรตรวจสอบก่อนยืนยัน",
+      "ใช้ข้อมูล Master ที่ Active เท่านั้น"
+    ],
+    "scenarios": [
+      "ค้นหาและเปิดรายละเอียด",
+      "สร้างรายการใหม่",
+      "แก้ไขรายการเดิมและตรวจสอบผล"
+    ],
+    "sourceExcerpt": "",
+    "screenDescription": "หน้าจอ Navigation Map PC ในหมวด ภาพรวมระบบ แสดงส่วนค้นหา ข้อมูลหลัก ตารางรายละเอียด ปุ่มดำเนินการ สถานะ และข้อความแจ้งเตือนตามสิทธิ์ผู้ใช้",
+    "kpi": [
+      "ข้อมูลบังคับครบถ้วนก่อนบันทึก",
+      "ไม่มีรายการซ้ำหรือยอดติดลบ",
+      "สถานะเอกสารเปลี่ยนตามลำดับที่กำหนด",
+      "ค้นหาหลักฐานย้อนหลังจากเลขที่เอกสารได้"
+    ],
+    "tips": [
+      "ใช้ Search และตัวกรองเพื่อลดรายการบนหน้าจอ",
+      "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
+      "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
+      "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
+    ],
+    "images": [
+      "screen_072.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 67,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพประกอบ Navigation Map PC"
+  },
+  {
+    "id": "x68",
+    "section": "ภาพรวมระบบ",
+    "sectionEn": "Overview & Infrastructure",
+    "title": "Navigation Map PDA",
+    "objective": "ใช้งานหน้าจอ Navigation Map PDA ได้ครบตามขั้นตอน พร้อมตรวจสอบความถูกต้องและผลลัพธ์",
+    "steps": [
+      "เปิดเมนูจากสารบัญด้านซ้าย",
+      "อ่านวัตถุประสงค์และเงื่อนไขก่อนเริ่ม",
+      "กรอกข้อมูลที่มีเครื่องหมายจำเป็น",
+      "ตรวจสอบข้อมูลก่อนกดบันทึกหรือยืนยัน",
+      "ตรวจสอบข้อความสำเร็จและผลลัพธ์"
+    ],
+    "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
+    "keywords": "ภาพรวมระบบ Overview & Infrastructure ภาพรวมระบบ My Inventory PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory Navigation Map PDA",
+    "image": "screen_073.png",
+    "preconditions": [
+      "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
+      "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
+      "Master Data ที่เกี่ยวข้องต้องอยู่ในสถานะ Active",
+      "อุปกรณ์ PC/PDA และเครือข่ายพร้อมใช้งาน"
+    ],
+    "controls": [
+      "New / Add: เริ่มสร้างรายการใหม่",
+      "Search: ค้นหาตามเงื่อนไขที่ระบุ",
+      "Save: บันทึกข้อมูลฉบับร่าง",
+      "Confirm / Release: ยืนยันรายการเข้าสู่กระบวนการ",
+      "Cancel / Clear: ยกเลิกหรือคืนค่าช่องค้นหา",
+      "Export / Print: ส่งออกหรือพิมพ์เอกสารตามสิทธิ์"
+    ],
+    "validation": [
+      "ช่องที่มีเครื่องหมายบังคับต้องมีข้อมูลครบ",
+      "รหัสอ้างอิงต้องมีอยู่และอยู่ในสถานะใช้งาน",
+      "จำนวนต้องเป็นตัวเลขและไม่ต่ำกว่าศูนย์",
+      "วันที่เอกสารต้องอยู่ในรูปแบบที่ระบบรองรับ",
+      "รายการซ้ำต้องได้รับการแจ้งเตือนก่อนบันทึก"
+    ],
+    "errors": [
+      "ไม่พบข้อมูล: ตรวจสอบรหัส คำค้น และตัวกรอง",
+      "ไม่มีสิทธิ์: ติดต่อผู้ดูแล User Group / Assign Menu",
+      "ข้อมูลไม่ครบ: ตรวจสอบช่องบังคับและรายการในตาราง",
+      "บันทึกไม่สำเร็จ: ตรวจสอบเครือข่ายและข้อความจากระบบ",
+      "รายการถูกใช้งานแล้ว: Refresh แล้วตรวจสอบสถานะล่าสุด"
+    ],
+    "audit": [
+      "บันทึกผู้สร้างและวันเวลาสร้าง",
+      "บันทึกผู้แก้ไขและวันเวลาแก้ไขล่าสุด",
+      "บันทึกการเปลี่ยนสถานะและเลขที่เอกสารอ้างอิง",
+      "ตรวจสอบย้อนหลังผ่าน Transaction Log ตามสิทธิ์"
+    ],
+    "roles": [
+      {
+        "role": "Administrator",
+        "access": "ตั้งค่า ดู เพิ่ม แก้ไข ยกเลิก และตรวจสอบ Log"
+      },
+      {
+        "role": "Supervisor",
+        "access": "สร้าง ตรวจสอบ อนุมัติ/ยืนยัน และติดตามสถานะ"
+      },
+      {
+        "role": "Operator",
+        "access": "ค้นหา สแกน บันทึกงาน และยืนยันตามสิทธิ์ที่ได้รับ"
+      },
+      {
+        "role": "Viewer / Auditor",
+        "access": "ดู ค้นหา Export และตรวจสอบย้อนหลัง โดยไม่แก้ไขข้อมูล"
+      }
+    ],
+    "fields": [
+      [
+        "Search Criteria",
+        "Text/Select",
+        "No",
+        "เงื่อนไขค้นหา"
+      ],
+      [
+        "Data Grid / Menu",
+        "Display",
+        "Yes",
+        "รายการหรือเมนูที่ระบบแสดง"
+      ],
+      [
+        "Status",
+        "Display",
+        "Auto",
+        "สถานะข้อมูลล่าสุด"
+      ],
+      [
+        "Action",
+        "Button",
+        "ตามสิทธิ์",
+        "คำสั่งที่ใช้ดำเนินงาน"
+      ]
+    ],
+    "flow": [
+      "เลือกเมนูจากสารบัญ",
+      "อ่านรายละเอียดหน้าจอและเงื่อนไข",
+      "กำหนดตัวกรองหรือข้อมูลนำเข้า",
+      "กดคำสั่งที่ต้องการ",
+      "ตรวจสอบข้อความและสถานะ",
+      "เปิดรายละเอียดเพื่อยืนยันผล"
+    ],
+    "business": [
+      "แสดงข้อมูลตามสิทธิ์ของผู้ใช้",
+      "ทุกการแก้ไขควรตรวจสอบก่อนยืนยัน",
+      "ใช้ข้อมูล Master ที่ Active เท่านั้น"
+    ],
+    "scenarios": [
+      "ค้นหาและเปิดรายละเอียด",
+      "สร้างรายการใหม่",
+      "แก้ไขรายการเดิมและตรวจสอบผล"
+    ],
+    "sourceExcerpt": "",
+    "screenDescription": "หน้าจอ Navigation Map PDA ในหมวด ภาพรวมระบบ แสดงส่วนค้นหา ข้อมูลหลัก ตารางรายละเอียด ปุ่มดำเนินการ สถานะ และข้อความแจ้งเตือนตามสิทธิ์ผู้ใช้",
+    "kpi": [
+      "ข้อมูลบังคับครบถ้วนก่อนบันทึก",
+      "ไม่มีรายการซ้ำหรือยอดติดลบ",
+      "สถานะเอกสารเปลี่ยนตามลำดับที่กำหนด",
+      "ค้นหาหลักฐานย้อนหลังจากเลขที่เอกสารได้"
+    ],
+    "tips": [
+      "ใช้ Search และตัวกรองเพื่อลดรายการบนหน้าจอ",
+      "สแกน Barcode แทนการพิมพ์เมื่ออุปกรณ์รองรับ",
+      "ตรวจ Warehouse, Owner, Location และ Status ทุกครั้ง",
+      "บันทึกเลขที่เอกสารเมื่อแจ้งปัญหาให้ Support"
+    ],
+    "images": [
+      "screen_073.png"
+    ],
+    "platform": "PC / PDA",
+    "screenNo": 68,
+    "imageStatus": "FALLBACK_REVIEW_REQUIRED",
+    "imageCaption": "ภาพประกอบ Navigation Map PDA"
   }
 ];
