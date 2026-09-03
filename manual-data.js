@@ -14,7 +14,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "ภาพรวมระบบ Overview & Infrastructure ภาพรวมระบบ My Inventory PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_001.png",
+    "image": "screen_001.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -141,7 +141,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "ภาพรวมระบบ Overview & Infrastructure Hardware & Software PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_002.png",
+    "image": "screen_002.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -268,7 +268,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "ภาพรวมระบบ Overview & Infrastructure Infrastructure PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_003.png",
+    "image": "screen_003.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -395,7 +395,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "ภาพรวมระบบ Overview & Infrastructure PC vs PDA PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_004.png",
+    "image": "screen_004.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -522,7 +522,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "ภาพรวมระบบ Overview & Infrastructure Function Matrix PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_005.png",
+    "image": "screen_005.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -648,7 +648,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "เข้าสู่หน้าหลักและแสดงเมนูที่ได้รับอนุญาต",
     "keywords": "การเข้าสู่ระบบ Login Login PC PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_006.png",
+    "image": "screen_006.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -774,7 +774,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "เข้าสู่หน้าหลักและแสดงเมนูที่ได้รับอนุญาต",
     "keywords": "การเข้าสู่ระบบ Login Login PDA PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_007.png",
+    "image": "screen_007.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -901,7 +901,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "หน้าหลัก Dashboard Dashboard AI Dashboard Command Center PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_008.png",
+    "image": "screen_008.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1028,7 +1028,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "หน้าหลัก Dashboard Dashboard Main Menu PDA PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_009.png",
+    "image": "screen_009.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1155,7 +1155,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
     "keywords": "การจัดการ Master Data Master Data Column Mapping PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_010.png",
+    "image": "screen_010.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1291,7 +1291,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
     "keywords": "การจัดการ Master Data Master Data Import Business Partner PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_011.png",
+    "image": "screen_011.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1427,7 +1427,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
     "keywords": "การจัดการ Master Data Master Data Import Item PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_012.png",
+    "image": "screen_012.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1563,7 +1563,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
     "keywords": "การจัดการ Master Data Master Data Import Inventory PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_013.png",
+    "image": "screen_013.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1699,7 +1699,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
     "keywords": "การจัดการ Master Data Master Data Import Location PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_014.png",
+    "image": "screen_014.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1835,7 +1835,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
     "keywords": "การจัดการ Master Data Master Data Import Inbound PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_015.png",
+    "image": "screen_015.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -1971,7 +1971,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ข้อมูลที่ผ่านการตรวจสอบถูกบันทึก พร้อมผลสำเร็จ/ไม่สำเร็จ",
     "keywords": "การจัดการ Master Data Master Data Import Outbound PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_016.png",
+    "image": "screen_016.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2107,7 +2107,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Business Partner PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_017.png",
+    "image": "screen_017.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2234,7 +2234,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Item Category PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_018.png",
+    "image": "screen_018.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2361,7 +2361,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Item PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_019.png",
+    "image": "screen_019.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2488,7 +2488,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Location PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_020.png",
+    "image": "screen_020.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2615,7 +2615,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Warehouse PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_021.png",
+    "image": "screen_021.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2742,7 +2742,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Owner PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_022.png",
+    "image": "screen_022.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2869,7 +2869,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Zone PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_023.png",
+    "image": "screen_023.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -2996,7 +2996,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Zone Category PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_024.png",
+    "image": "screen_024.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -3123,7 +3123,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "การจัดการ Master Data Master Data Zone Location PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_025.png",
+    "image": "screen_025.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -3250,7 +3250,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สต็อกรับเข้าถูกบันทึกและพร้อมเข้าสู่ขั้นตอนจัดเก็บ",
     "keywords": "การรับสินค้า Receiving Blind Receipt PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_026.png",
+    "image": "screen_026.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -3410,7 +3410,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สต็อกรับเข้าถูกบันทึกและพร้อมเข้าสู่ขั้นตอนจัดเก็บ",
     "keywords": "การรับสินค้า Receiving Inbound Order PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_027.png",
+    "image": "screen_027.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -3570,7 +3570,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สต็อกรับเข้าถูกบันทึกและพร้อมเข้าสู่ขั้นตอนจัดเก็บ",
     "keywords": "การรับสินค้า Receiving Inbound Receipt PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_028.png",
+    "image": "screen_028.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -3730,7 +3730,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สต็อกรับเข้าถูกบันทึกและพร้อมเข้าสู่ขั้นตอนจัดเก็บ",
     "keywords": "การรับสินค้า Receiving Receipt Item PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_029.png",
+    "image": "screen_029.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -3890,7 +3890,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สินค้าถูกย้ายจากพื้นที่รับเข้าไปยังตำแหน่งจัดเก็บ",
     "keywords": "การจัดเก็บสินค้า Put Away Put Away PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_030.png",
+    "image": "screen_030.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4025,7 +4025,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สินค้าถูกย้ายจากพื้นที่รับเข้าไปยังตำแหน่งจัดเก็บ",
     "keywords": "การจัดเก็บสินค้า Put Away Putaway Strategy PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_031.png",
+    "image": "screen_031.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4160,7 +4160,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
     "keywords": "การเบิกสินค้า Picking Blind Pick PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_032.png",
+    "image": "screen_032.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4313,7 +4313,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
     "keywords": "การเบิกสินค้า Picking Picking PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_033.png",
+    "image": "screen_033.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4466,7 +4466,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
     "keywords": "การเบิกสินค้า Picking Qty Pick PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_034.png",
+    "image": "screen_034.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4619,7 +4619,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
     "keywords": "การแพ็คและจัดส่งสินค้า Packing & Shipping Outbound Order PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_035.png",
+    "image": "screen_035.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4767,7 +4767,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "เอกสารถูกปิดและสต็อกถูกตัดตามเงื่อนไขระบบ",
     "keywords": "การแพ็คและจัดส่งสินค้า Packing & Shipping Delivery Note PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_036.png",
+    "image": "screen_036.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -4915,7 +4915,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
     "keywords": "การแพ็คและจัดส่งสินค้า Packing & Shipping Picking Slip PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_037.png",
+    "image": "screen_037.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5068,7 +5068,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "เอกสารถูกปิดและสต็อกถูกตัดตามเงื่อนไขระบบ",
     "keywords": "การแพ็คและจัดส่งสินค้า Packing & Shipping Confirm Ship PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_038.png",
+    "image": "screen_038.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5216,7 +5216,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ได้ผลการนับและรายการผลต่างสำหรับอนุมัติปรับยอด",
     "keywords": "การตรวจนับสินค้า Stock Count Inventory Counting PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_039.png",
+    "image": "screen_039.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5364,7 +5364,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ได้ผลการนับและรายการผลต่างสำหรับอนุมัติปรับยอด",
     "keywords": "การตรวจนับสินค้า Stock Count Count Reconciliation PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_040.png",
+    "image": "screen_040.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5512,7 +5512,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ได้ผลการนับและรายการผลต่างสำหรับอนุมัติปรับยอด",
     "keywords": "การตรวจนับสินค้า Stock Count Count Detail PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_041.png",
+    "image": "screen_041.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5660,7 +5660,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ได้ผลการนับและรายการผลต่างสำหรับอนุมัติปรับยอด",
     "keywords": "การตรวจนับสินค้า Stock Count Stock Count PDA PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_042.png",
+    "image": "screen_042.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5808,7 +5808,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ยอดคงเหลือ ตำแหน่ง หรือสถานะถูกปรับพร้อมร่องรอยตรวจสอบ",
     "keywords": "การโอนย้ายและปรับสมดุลสินค้า Inventory Movement Inventory Move PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_043.png",
+    "image": "screen_043.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -5955,7 +5955,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ยอดคงเหลือ ตำแหน่ง หรือสถานะถูกปรับพร้อมร่องรอยตรวจสอบ",
     "keywords": "การโอนย้ายและปรับสมดุลสินค้า Inventory Movement Adjustment PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_044.png",
+    "image": "screen_044.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6102,7 +6102,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ยอดคงเหลือ ตำแหน่ง หรือสถานะถูกปรับพร้อมร่องรอยตรวจสอบ",
     "keywords": "การโอนย้ายและปรับสมดุลสินค้า Inventory Movement Change Location PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_045.png",
+    "image": "screen_045.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6249,7 +6249,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ยอดคงเหลือ ตำแหน่ง หรือสถานะถูกปรับพร้อมร่องรอยตรวจสอบ",
     "keywords": "การโอนย้ายและปรับสมดุลสินค้า Inventory Movement Status Change PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_046.png",
+    "image": "screen_046.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6396,7 +6396,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ยอดคงเหลือ ตำแหน่ง หรือสถานะถูกปรับพร้อมร่องรอยตรวจสอบ",
     "keywords": "การโอนย้ายและปรับสมดุลสินค้า Inventory Movement Inventory Viewer PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_047.png",
+    "image": "screen_047.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6543,7 +6543,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สต็อกรับเข้าถูกบันทึกและพร้อมเข้าสู่ขั้นตอนจัดเก็บ",
     "keywords": "รายงานระบบ Reports Inbound Summary PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_048.png",
+    "image": "screen_048.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6703,7 +6703,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายงานแสดงข้อมูลตามเงื่อนไขและพร้อมนำไปใช้งาน",
     "keywords": "รายงานระบบ Reports Inventory Summary PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_049.png",
+    "image": "screen_049.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6843,7 +6843,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "รายการหยิบถูกบันทึกและพร้อมแพ็ค/จัดส่ง",
     "keywords": "รายงานระบบ Reports Outbound Picking Slip PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_050.png",
+    "image": "screen_050.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -6996,7 +6996,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "สต็อกรับเข้าถูกบันทึกและพร้อมเข้าสู่ขั้นตอนจัดเก็บ",
     "keywords": "รายงานระบบ Reports Inbound Receipt Report PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_051.png",
+    "image": "screen_051.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7156,7 +7156,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ค่าระบบถูกบันทึกและสิทธิ์ทำงานตามที่กำหนด",
     "keywords": "การตั้งค่าระบบ System Settings Assign Menu PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_052.png",
+    "image": "screen_052.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7291,7 +7291,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ค่าระบบถูกบันทึกและสิทธิ์ทำงานตามที่กำหนด",
     "keywords": "การตั้งค่าระบบ System Settings User Group PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_053.png",
+    "image": "screen_053.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7426,7 +7426,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ค่าระบบถูกบันทึกและสิทธิ์ทำงานตามที่กำหนด",
     "keywords": "การตั้งค่าระบบ System Settings User PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_054.png",
+    "image": "screen_054.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7561,7 +7561,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ค่าระบบถูกบันทึกและสิทธิ์ทำงานตามที่กำหนด",
     "keywords": "การตั้งค่าระบบ System Settings User Logon PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_055.png",
+    "image": "screen_055.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7696,7 +7696,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ค่าระบบถูกบันทึกและสิทธิ์ทำงานตามที่กำหนด",
     "keywords": "การตั้งค่าระบบ System Settings Mobile Settings PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_056.png",
+    "image": "screen_056.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7831,7 +7831,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ค่าระบบถูกบันทึกและสิทธิ์ทำงานตามที่กำหนด",
     "keywords": "การตั้งค่าระบบ System Settings Transaction Log PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_057.png",
+    "image": "screen_057.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -7966,7 +7966,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "FAQ & Troubleshooting Help Center FAQ PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_058.png",
+    "image": "screen_058.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -8093,7 +8093,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "FAQ & Troubleshooting Help Center Troubleshooting PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_059.png",
+    "image": "screen_059.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
@@ -8220,7 +8220,7 @@ window.MANUAL_DATA = [
     ],
     "expected": "ผู้ใช้ดำเนินงานได้ครบตามขั้นตอนและตรวจสอบย้อนกลับได้",
     "keywords": "FAQ & Troubleshooting Help Center Glossary PC PDA วิธีใช้ ขั้นตอน แก้ไขปัญหา OGA My Inventory",
-    "image": "assets/manual/screen_060.png",
+    "image": "screen_060.png",
     "preconditions": [
       "ผู้ใช้งานเข้าสู่ระบบสำเร็จและมีสิทธิ์เข้าถึงเมนู",
       "เลือก Company, Warehouse และ Owner ให้ตรงกับงาน",
