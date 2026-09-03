@@ -1,0 +1,15 @@
+{
+  "name": "OGA My Inventory Complete Detailed Manual v8",
+  "short_name": "My Inventory v8",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f9fd",
+  "theme_color": "#E50914",
+  "icons": [
+    {
+      "src": "assets/oga_group_logo.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
