@@ -1,0 +1,1637 @@
+{
+  "stats": {
+    "การเข้าสู่ระบบ": 2,
+    "หน้าหลัก Dashboard": 2,
+    "การจัดการ Master Data": 67,
+    "การรับสินค้า (Receiving)": 15,
+    "การจัดเก็บสินค้า (Put Away)": 1,
+    "การเบิกสินค้า (Picking)": 6,
+    "การจัดส่งสินค้า (Shipping)": 10,
+    "การตรวจนับสินค้า (Stock Count)": 9,
+    "การโอนย้ายสินค้า": 12,
+    "รายงาน": 4,
+    "การตั้งค่าระบบ": 34
+  },
+  "records": [
+    {
+      "screenNo": 105,
+      "title": "Login / PC",
+      "section": "การเข้าสู่ระบบ",
+      "screenshots": [
+        "screen_004.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 106,
+      "title": "Login / PDA",
+      "section": "การเข้าสู่ระบบ",
+      "screenshots": [
+        "screen_005.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 42,
+      "title": "AI Dashboard Command Center",
+      "section": "หน้าหลัก Dashboard",
+      "screenshots": [
+        "screen_006.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 43,
+      "title": "MainMenu / PDA",
+      "section": "หน้าหลัก Dashboard",
+      "screenshots": [
+        "screen_007.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 44,
+      "title": "Column Mapping",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_008.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 45,
+      "title": "Column Mapping / Add",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_009.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 46,
+      "title": "Column Mapping / Delete",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_010.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 47,
+      "title": "Column Mapping / Edit",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_011.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 48,
+      "title": "Import Business Partner",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_012.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 49,
+      "title": "Import Business Partner / BrowseExcelFile",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_013.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 50,
+      "title": "Import Business Partner / DownloadTemplate",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_014.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 51,
+      "title": "Import Inbound",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_015.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 52,
+      "title": "Import Inbound / BrowseExcelFile",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_016.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 53,
+      "title": "Import Inbound / DownloadTemplate",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_017.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 54,
+      "title": "Import Inventory",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_018.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 55,
+      "title": "Import Inventory / BrowseExcelFile",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_019.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 56,
+      "title": "Import Inventory / DownloadTemplate",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_020.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 57,
+      "title": "Import Item",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_021.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 58,
+      "title": "Import Item / BrowseExcelFile",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_022.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 59,
+      "title": "Import Item / DownloadTemplate",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_023.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 60,
+      "title": "Import Location",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_024.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 61,
+      "title": "Import Location / BrowseExcelFile",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_025.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 62,
+      "title": "Import Location / DownloadTemplate",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_026.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 63,
+      "title": "Import Master",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_027.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 64,
+      "title": "Import Master / Add",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_028.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 65,
+      "title": "Import Master / Delete",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_029.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 66,
+      "title": "Import Master / Edit",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_030.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 67,
+      "title": "Import Outbound",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_031.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 68,
+      "title": "Import Outbound / BrowseExcelFile",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_032.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 69,
+      "title": "Import Outbound / DownloadTemplate",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_033.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 85,
+      "title": "Inventory Adjustment",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_034.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 88,
+      "title": "Inventory / By Item Summary",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_035.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 89,
+      "title": "Inventory / By Item",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_036.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 90,
+      "title": "Inventory / By Serial",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_037.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 91,
+      "title": "Inventory / Lot Summary",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_038.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 92,
+      "title": "Inventory / Min Stock",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_039.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 93,
+      "title": "Inventory Status Change",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_040.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 107,
+      "title": "Business Partner",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_041.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 108,
+      "title": "Business Partner / Add",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_042.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 109,
+      "title": "Business Partner / Edit",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_043.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 110,
+      "title": "Business Partner / delete",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_044.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 111,
+      "title": "Item Category",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_045.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 112,
+      "title": "Item Category / Add",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_046.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 113,
+      "title": "Item Category / Edit",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_047.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 114,
+      "title": "Item Category / delete",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_048.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 115,
+      "title": "Item",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_049.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 116,
+      "title": "Item / Add",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_050.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 117,
+      "title": "Item / AddUOM",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_051.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 118,
+      "title": "Item / Edit",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_052.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 119,
+      "title": "Item / Print",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_053.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 120,
+      "title": "Item / delete",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_054.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 121,
+      "title": "Location",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_055.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 122,
+      "title": "Location / Add",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_056.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 123,
+      "title": "Location / Delete",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_057.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 124,
+      "title": "Location / Edit",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_058.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 125,
+      "title": "Location / Print",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_059.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 126,
+      "title": "Owner",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_060.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 127,
+      "title": "Owner / delete",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_061.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 128,
+      "title": "Warehouse",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_062.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 129,
+      "title": "Warehouse / delete",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_063.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 130,
+      "title": "Zone",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_064.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 131,
+      "title": "ZoneCategory",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_065.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 132,
+      "title": "ZoneCategory / AddZone",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_066.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 133,
+      "title": "ZoneCategory / AssignZoneCategory",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_067.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 134,
+      "title": "ZoneLocation",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_068.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 135,
+      "title": "ZoneLocation / AddZone",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_069.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 136,
+      "title": "ZoneLocation / Assign ZoneLocation",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_070.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 137,
+      "title": "Zone / Add",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_071.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 138,
+      "title": "Zone / Delete",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_072.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 139,
+      "title": "Zone / Edit",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_073.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 140,
+      "title": "Zone / Export",
+      "section": "การจัดการ Master Data",
+      "screenshots": [
+        "screen_074.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 70,
+      "title": "Blind Recript",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_075.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 71,
+      "title": "Blind Recript / Add",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_076.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 72,
+      "title": "Blind Recript / Qty",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_077.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 73,
+      "title": "InboundReceipt",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_078.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 74,
+      "title": "InboundReceipt / ReceiptItem",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_079.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 75,
+      "title": "Inbound Order",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_080.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 76,
+      "title": "Inbound Order / Add",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_081.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 77,
+      "title": "Inbound Order / AddLine",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_082.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 78,
+      "title": "Inbound Order / Delete",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_083.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 79,
+      "title": "Inbound Order / Edit",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_084.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 80,
+      "title": "Inbound Order / Inbound Detail (Line Items)",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_085.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 81,
+      "title": "Inbound Order / PartialReceipt",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_086.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 82,
+      "title": "Inbound Order / Print Sticker",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_087.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 83,
+      "title": "Inbound Order / PrintReportInbound Order Receive Summary",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_088.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 84,
+      "title": "Inbound Order / PrintReport / Inbound Receipt",
+      "section": "การรับสินค้า (Receiving)",
+      "screenshots": [
+        "screen_089.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 87,
+      "title": "Putaway Strategy",
+      "section": "การจัดเก็บสินค้า (Put Away)",
+      "screenshots": [
+        "screen_090.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 142,
+      "title": "Blind Pick",
+      "section": "การเบิกสินค้า (Picking)",
+      "screenshots": [
+        "screen_091.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 143,
+      "title": "Blind Pick / NewPick",
+      "section": "การเบิกสินค้า (Picking)",
+      "screenshots": [
+        "screen_092.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 144,
+      "title": "Blind Pick / Pick",
+      "section": "การเบิกสินค้า (Picking)",
+      "screenshots": [
+        "screen_093.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 145,
+      "title": "Picking",
+      "section": "การเบิกสินค้า (Picking)",
+      "screenshots": [
+        "screen_094.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 146,
+      "title": "Picking / Item",
+      "section": "การเบิกสินค้า (Picking)",
+      "screenshots": [
+        "screen_095.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 147,
+      "title": "Picking / Item / QtyPick",
+      "section": "การเบิกสินค้า (Picking)",
+      "screenshots": [
+        "screen_096.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 148,
+      "title": "Outbound Order",
+      "section": "การจัดส่งสินค้า (Shipping)",
+      "screenshots": [
+        "screen_097.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 149,
+      "title": "Outbound Order / Add Outbound Order",
+      "section": "การจัดส่งสินค้า (Shipping)",
+      "screenshots": [
+        "screen_098.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 150,
+      "title": "Outbound Order / AddLine",
+      "section": "การจัดส่งสินค้า (Shipping)",
+      "screenshots": [
+        "screen_099.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 151,
+      "title": "Outbound Order / Confirm Release",
+      "section": "การจัดส่งสินค้า (Shipping)",
+      "screenshots": [
+        "screen_100.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 152,
+      "title": "Outbound Order / Confirm release user",
+      "section": "การจัดส่งสินค้า (Shipping)",
+      "screenshots": [
+        "screen_101.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 153,
+      "title": "Outbound Order / Confirm unrelease",
+      "section": "การจัดส่งสินค้า (Shipping)",
+      "screenshots": [
+        "screen_102.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 154,
+      "title": "Outbound Order / Deiete",
+      "section": "การจัดส่งสินค้า (Shipping)",
+      "screenshots": [
+        "screen_103.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 155,
+      "title": "Outbound Order / Edit",
+      "section": "การจัดส่งสินค้า (Shipping)",
+      "screenshots": [
+        "screen_104.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 156,
+      "title": "Outbound Order / PrintReportDelivery Note",
+      "section": "การจัดส่งสินค้า (Shipping)",
+      "screenshots": [
+        "screen_105.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 157,
+      "title": "Outbound Order / PrintReportPicking Slip",
+      "section": "การจัดส่งสินค้า (Shipping)",
+      "screenshots": [
+        "screen_106.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 33,
+      "title": "StockCount",
+      "section": "การตรวจนับสินค้า (Stock Count)",
+      "screenshots": [
+        "screen_107.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 34,
+      "title": "Count Reconciliation",
+      "section": "การตรวจนับสินค้า (Stock Count)",
+      "screenshots": [
+        "screen_108.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 35,
+      "title": "Count Reconciliation / Count Reconciliation",
+      "section": "การตรวจนับสินค้า (Stock Count)",
+      "screenshots": [
+        "screen_109.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 36,
+      "title": "Count Reconciliation / Count Reconciliation / Count Reconciliation",
+      "section": "การตรวจนับสินค้า (Stock Count)",
+      "screenshots": [
+        "screen_110.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 37,
+      "title": "Count Reconciliation / Count Reconciliation / CountDetail",
+      "section": "การตรวจนับสินค้า (Stock Count)",
+      "screenshots": [
+        "screen_111.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 38,
+      "title": "Inventory Counting",
+      "section": "การตรวจนับสินค้า (Stock Count)",
+      "screenshots": [
+        "screen_112.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 39,
+      "title": "Inventory Counting / Create Counting Plan",
+      "section": "การตรวจนับสินค้า (Stock Count)",
+      "screenshots": [
+        "screen_113.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 40,
+      "title": "Inventory Counting / Delete Confirmation",
+      "section": "การตรวจนับสินค้า (Stock Count)",
+      "screenshots": [
+        "screen_114.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 41,
+      "title": "Inventory Counting / View Counting Plan",
+      "section": "การตรวจนับสินค้า (Stock Count)",
+      "screenshots": [
+        "screen_115.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 86,
+      "title": "Inventory Move",
+      "section": "การโอนย้ายสินค้า",
+      "screenshots": [
+        "screen_116.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 94,
+      "title": "Adjustment",
+      "section": "การโอนย้ายสินค้า",
+      "screenshots": [
+        "screen_117.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 95,
+      "title": "Adjustment / Adjust IN",
+      "section": "การโอนย้ายสินค้า",
+      "screenshots": [
+        "screen_118.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 96,
+      "title": "Adjustment / AdjustStock",
+      "section": "การโอนย้ายสินค้า",
+      "screenshots": [
+        "screen_119.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 97,
+      "title": "Change Location / Change Location",
+      "section": "การโอนย้ายสินค้า",
+      "screenshots": [
+        "screen_120.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 98,
+      "title": "Inventory Viewer / By Item Summary",
+      "section": "การโอนย้ายสินค้า",
+      "screenshots": [
+        "screen_121.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 99,
+      "title": "Inventory Viewer / By Item",
+      "section": "การโอนย้ายสินค้า",
+      "screenshots": [
+        "screen_122.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 100,
+      "title": "Inventory Viewer / By Lot Summary",
+      "section": "การโอนย้ายสินค้า",
+      "screenshots": [
+        "screen_123.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 101,
+      "title": "Inventory Viewer / By Min Stock",
+      "section": "การโอนย้ายสินค้า",
+      "screenshots": [
+        "screen_124.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 102,
+      "title": "Inventory Viewer / By Serial",
+      "section": "การโอนย้ายสินค้า",
+      "screenshots": [
+        "screen_125.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 103,
+      "title": "Status Change",
+      "section": "การโอนย้ายสินค้า",
+      "screenshots": [
+        "screen_126.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 104,
+      "title": "Status Change / StatusChange",
+      "section": "การโอนย้ายสินค้า",
+      "screenshots": [
+        "screen_127.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 158,
+      "title": "Inbound Order Receive Summary",
+      "section": "รายงาน",
+      "screenshots": [
+        "screen_128.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 159,
+      "title": "Inventory Summary Item",
+      "section": "รายงาน",
+      "screenshots": [
+        "screen_129.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 160,
+      "title": "Outbound Picking Slip",
+      "section": "รายงาน",
+      "screenshots": [
+        "screen_130.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 161,
+      "title": "Reports / InboundReceipt",
+      "section": "รายงาน",
+      "screenshots": [
+        "screen_153.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 1,
+      "title": "Assign Menu",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_131.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 2,
+      "title": "Assign Menu / AI",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_132.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 3,
+      "title": "Assign Menu / Authentication",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_133.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 4,
+      "title": "Assign Menu / Configs",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_134.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 5,
+      "title": "Assign Menu / Counting",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_135.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 6,
+      "title": "Assign Menu / Home",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_136.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 7,
+      "title": "Assign Menu / Import Master",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_137.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 8,
+      "title": "Assign Menu / Inbound",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_138.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 9,
+      "title": "Assign Menu / Inventory",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_139.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 10,
+      "title": "Assign Menu / Master",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_140.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 11,
+      "title": "Assign Menu / Outbound",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_141.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 12,
+      "title": "Assign Menu / PC",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_131.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 13,
+      "title": "Assign Menu / PDA",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_142.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 14,
+      "title": "Assign Menu / Report",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_143.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 15,
+      "title": "Assign Menu / Transaction Log",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_144.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 16,
+      "title": "Add / Menu",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_145.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 17,
+      "title": "Delete / Menu",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_146.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 18,
+      "title": "Edit / Menu",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_147.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 19,
+      "title": "Menu",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_148.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 20,
+      "title": "User Group",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_149.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 21,
+      "title": "User Group / AddUserGroup",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_150.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 22,
+      "title": "User Group / AddUser / EditGroup",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_151.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 23,
+      "title": "User Group / Delete",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_152.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 24,
+      "title": "User Group / Ex.SearchViewData",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_166.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 25,
+      "title": "User Group / Export",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_154.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 26,
+      "title": "User Group / SearchViewData",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_166.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 27,
+      "title": "User Logon",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_155.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 28,
+      "title": "User Logon / Clear On User",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_156.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 29,
+      "title": "Add / User",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_157.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 30,
+      "title": "Edit / User",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_158.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 31,
+      "title": "Export / User",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_159.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 32,
+      "title": "User",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_160.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 141,
+      "title": "Mobile Settings",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_161.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 2
+    },
+    {
+      "screenNo": 162,
+      "title": "Transaction Log",
+      "section": "การตั้งค่าระบบ",
+      "screenshots": [
+        "screen_162.png"
+      ],
+      "status": "EXACT_FROM_MANUAL_BLOCK",
+      "tables": 5
+    }
+  ]
+}
